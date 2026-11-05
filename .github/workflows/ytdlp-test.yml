@@ -1,0 +1,22 @@
+name: Source Download Test — yt-dlp on the runner
+
+on:
+  workflow_dispatch:
+
+jobs:
+  ytdlp-test:
+    name: Try downloading one public source video with yt-dlp
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 1. Install FFmpeg and yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install -q yt-dlp
+          yt-dlp --version
+      - name: 2. Download the Manila drone source at up to 720p
+        run: |
+          yt-dlp -f "bv[height<=720]+ba/b[height<=720]" --no-playlist -o "source-test.%(ext)s" "https://www.youtube.com/watch?v=E3JIMZgs2kg"
+          ls -la source-test.*
+          ffprobe -v error -show_entries format=duration,size -show_entries stream=width,height source-test.*
