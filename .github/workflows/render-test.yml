@@ -36,6 +36,12 @@ jobs:
       - name: 5. Download the headless browser Remotion renders with
         run: npx remotion browser ensure
 
+      - name: 5b. Install FFmpeg (not preinstalled on this runner image)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version
+
       - name: 6. Render the kinetic text overlay as a transparent video
         # --image-format=png and --pixel-format=yuva444p10le are what keep
         # the transparency (alpha channel) alive in the ProRes file.
