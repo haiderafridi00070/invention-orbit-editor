@@ -1,69 +1,165 @@
-# Invention Orbit — Cloud Editor (Proof of Concept)
+# Invention Orbit — Video 2 (Sentinel): Cloud Production Package
 
-This is a small test project. It proves one thing end-to-end, for free, in the cloud:
+Everything needed to render Video 2's kinetic text layer in the cloud and
+assemble the finished video with FFmpeg — in the "Quietly Obsolete"
+editing style the channel adopted for this video (kinetic per-character
+text assembly over literal footage; no burned-in captions; no count-ups).
 
-1. **Remotion** renders our signature **kinetic text** — big, extra-bold white text whose
-   characters slide up and fade in one by one until the whole number has "assembled"
-   (about 0.6 seconds), then hold — as a **transparent video** (you can see through
-   everything except the text itself).
-2. **FFmpeg** lays that transparent text video over a normal video clip and produces
-   one finished MP4.
-
-Nothing renders on your computer. Everything runs on GitHub's machines
-(GitHub Actions) when you press one button: **Run workflow**.
+One button runs it all: **Actions → "Video 2 — Render and Assemble" →
+Run workflow**. It produces one artifact, **`video2-final`**, containing
+`out/final.mp4` (1920×1080 @ 30fps, H.264 + AAC, 966.048s).
 
 ---
 
-## The files, one by one
+## Repo layout
 
-| File | What it is |
-|---|---|
-| `package.json` | The project's shopping list. It names the tools to install (Remotion 4.0.541, React) and defines the `render` command. |
-| `src/index.tsx` | The entry point. It registers one composition (one "scene") called **KineticNumber**: 1920×1080, 30 frames per second, 4 seconds long, with the default text `$ 10,800` / `PER TON`. |
-| `src/KineticNumber.tsx` | The star of the show. This is the text animation itself: Montserrat ExtraBold, white, soft black drop shadow, each character springs in with a ~60 ms stagger, then the smaller unit line (`PER TON`) rises in underneath. The text is set through **props**, so the same component can later show any number or phrase without code changes. The background is fully transparent. |
-| `assets/sample-bg.mp4` | A 6-second, 720p background clip (no sound) used only for this test, so the workflow has something to lay the text over. |
-| `.github/workflows/render-test.yml` | The instruction sheet GitHub follows when you press "Run workflow" (explained step by step below). |
-| `package-lock.json` | A receipt that pins the exact version of every installed package, so every run installs identical tools. (Created by `npm install`; safe to upload with everything else.) |
+```
+.github/workflows/video2-render.yml   the one-button workflow
+assemble.sh                           FFmpeg assembly (steps 1-3 below)
+scripts/plan.py                       turns data/ into FFmpeg plans;
+                                      refuses to run if an asset is missing
+data/
+  beats_retimed.json                  the fixed 62-beat timeline (966.048s)
+  text-events.json                    the 61 kinetic text pins (source of truth)
+  windows.json                        per-beat segments + credit-pill texts
+clips/beat-NN.mp4                     44 pre-cut footage beats — PARENT ADDS
+assets/
+  diagram-D1.mp4                      mechanism diagram, beats 28-32 — PARENT ADDS
+  narration.mp3                       966.048s Casper narration — PARENT ADDS
+  music_loop.wav                      Video 1's gentle music bed — PARENT ADDS
+remotion/                             the Remotion project (see below)
+rendered/                             created by the render step (git-ignored)
+  pins/pin-<TE-id>.mov                61 transparent ProRes 4444 pin clips
+  gfx/gfx-beat-<NN>.mp4               13 opaque graphics/text-led beats
+  pills/pill-beat-<NN>.mov            44 transparent credit-pill tracks
+  logo-bug.png                        the constant channel bug (176x176)
+out/final.mp4                         the finished video (git-ignored)
+```
 
-## How a run works
+## Assets the parent must add before pushing
 
-When you click **Run workflow** on the repo's **Actions** tab, GitHub starts a fresh
-Ubuntu computer in the cloud and follows the workflow file:
+| Path | What | Notes |
+|---|---|---|
+| `clips/beat-01.mp4` … (44 files) | Pre-cut footage beats: 1–7, 11, 12, 14–20, 22–27, 33, 35, 37, 38, 40, 42, 44–51, 53–57, 59–61 | 1920×1080 @ 30fps, silent, each exactly its beat's retimed duration, cut per `data/windows.json` |
+| `assets/diagram-D1.mp4` | The existing D1 mechanism diagram | Covers timeline 419.869–500.976s (beats 28–32); assemble.sh cuts each beat's span out of it |
+| `assets/narration.mp3` | The joined narration | 966.048s; timings are fixed and never retimed |
+| `assets/music_loop.wav` | Video 1's music bed | Looped under the narration at low static gain with head/tail fades |
 
-1. **Check out the repository** — downloads these files onto the cloud computer.
-2. **Set up Node.js 20** — installs the JavaScript runtime Remotion needs.
-3. **Install system libraries (best effort)** — a few libraries the built-in
-   headless browser needs. If this step grumbles, the run carries on anyway.
-4. **Install the project packages** — `npm install` fetches Remotion and friends.
-5. **Download the headless browser** — Remotion renders by filming web pages with a
-   small built-in Chrome browser; this step downloads it.
-6. **Render the overlay** — Remotion films the KineticNumber scene and saves it as
-   `out/kinetic.mov`, a **ProRes 4444** video. ProRes 4444 keeps the transparency
-   (the "alpha channel"), so the file is text floating on nothing. Two flags in
-   that command are what protect the transparency — `--image-format=png` and
-   `--pixel-format=yuva444p10le`. Leave them in: without them the text would
-   come out on a solid black box instead of floating over the footage.
-7. **Composite with FFmpeg** — FFmpeg shrinks the overlay to 720p, lays it over
-   `assets/sample-bg.mp4`, keeps the first 4 seconds, and saves `final-test.mp4`.
-8. **Upload the artifact** — `final-test.mp4` is attached to the run as a
-   downloadable **artifact** named `final-test-video`. Open the finished run on the
-   Actions tab and click the artifact to download the video.
+The three `data/*.json` files are already in this package (exact copies
+of the edit-spec files). The 26 full source videos and the old G1–G13
+renders are **not** part of the build — all 13 old graphics were
+replaced by text events in the spec; only D1 is reused.
 
-## What you should see in the test video
+## How the pieces run
 
-Over the background clip, the text **$ 10,800** assembles character by character
-in big bold white letters in the lower-centre of the frame, the smaller line
-**PER TON** appears underneath, and both hold steady until the clip ends —
-exactly the text style this channel is copying.
+1. **Workflow** (`.github/workflows/video2-render.yml`): checkout →
+   Node 20 → headless-browser libraries → FFmpeg (not preinstalled on
+   the runner image; installed with apt-get, as the POC proved
+   necessary) → `npm install` → browser ensure → fonts → render →
+   assemble → upload artifact `video2-final`.
+2. **Fonts** (`remotion/scripts/prepare-fonts.mjs`): copies the
+   self-hosted Montserrat ExtraBold woff2 files out of the
+   `@fontsource/montserrat` package into `remotion/public/fonts/`.
+   No Google Fonts CDN is used anywhere (its fetch fails in the local
+   VM's headless browser; the self-hosted files work everywhere).
+3. **Render** (`remotion/scripts/render-all.mjs`): drives the Remotion
+   CLI once per item, reading the item list from `data/` so it can
+   never drift from the spec. Alpha renders use the POC-proven flags
+   `--codec=prores --prores-profile=4444 --image-format=png
+   --pixel-format=yuva444p10le` — without the last two, transparency
+   is silently lost. Finished items are skipped, so a re-run resumes.
+   `--only TE-40` renders a subset; `--force` re-renders.
+4. **Assembly** (`assemble.sh` + `scripts/plan.py`):
+   - *Step 1* — every beat is normalised to exactly its retimed frame
+     count (footage from `clips/`, beats 28–32 cut from the diagram,
+     graphics beats from `rendered/gfx/`).
+   - *Step 2* — the 62 beats are concatenated; the base must measure
+     966.048s ± 0.5s or the build stops.
+   - *Step 3* — one FFmpeg pass overlays the 22 footage pins and the
+     44 credit-pill tracks at their timeline positions, lays the logo
+     bug over the whole video **except beat 49** (whose source already
+     carries its own top-right title bug), then mixes narration at
+     full level with the music loop ducked low underneath and
+     loudnorms the mix to about −14 LUFS.
 
-## Notes and next steps
+## The text layer (remotion/src/)
 
-- The text is data, not hard-coded pictures: changing `defaultProps` in
-  `src/index.tsx` (or passing props at render time later) changes what the
-  overlay says. This one component becomes the template for number cards,
-  phrase cards and name cards in full videos.
-- A public repo gets unlimited free GitHub Actions minutes on standard
-  runners, which is why this repo is public.
-- This is only a proof of concept: 4 seconds, one text event, one sample clip.
-  The full editor will feed real clips, narration timings and many text
-  events through the same two tools (Remotion for graphics, FFmpeg for assembly).
+Compositions are registered from the data files — 61 `Pin-*`, 13
+`GfxBeat-*`, 44 `PillBeat-*`, plus the `LogoBug` still (119 items).
+
+- `Kinetic.tsx` — the signature component: characters spring in one by
+  one (~67ms stagger), then hold; the sub-line rises in after. Heroes
+  (T1+T8: TE-15, TE-40) get a two-frame white flash + strobe, then a
+  full hold at 280px (~25% of frame height). White Montserrat
+  ExtraBold, soft shadow, no background box — ever.
+- `Pin.tsx` — one pin on transparency, laid out by template: T1 hero
+  lower-centre, T2 phrase card (beat 56's are the small precision
+  chips), T3 chapter card over a ~40% scrim, T4 name card lower-left,
+  T5 term card lower-third, T6 honest-beat marker.
+- `GfxBeat.tsx` — the 12 graphics beats + text-led beat 34 as opaque
+  full-screen clips, with their pins rendered inside in fixed slots.
+  Per-beat scenes from `graphics-beats.md`: beat 8's date stays while
+  magnitude and place land; beat 21 has the code-drawn blueprint
+  section with the hairline crack drawing itself at ~322s; beat 36's
+  two negations are struck through and the ₱10 hero holds while the
+  ≈$0.15 line stacks beneath it; beat 39 is a left-aligned results
+  slate; beat 58's three steps build as a ladder (finished steps dim
+  to 40%, all return to full in the final half-second); beat 62 is
+  the darkest background, the slowest assembly, with the thin
+  resistance-graph flourish under the final pin.
+- `Pill.tsx` — credit pills: white bold channel name on a
+  semi-transparent black pill, top-left, changing per segment exactly
+  as `windows.json` specifies.
+- `LogoBug.tsx` — circular INVENTION ORBIT badge.
+
+## Assumptions and flags (read before the run)
+
+1. **PENDING-DECISION credit pills render as NO pill.** Two sources'
+   channel names were never confirmed from their footage, and
+   `windows.json` carries the literal text `PENDING-DECISION` for
+   them: every QmSzQeOsjwU segment (beats 26, 27, 33) and every
+   fOdpxOWFApU segment (beat 55). No name was invented and no
+   placeholder is burned into the video — those segments simply show
+   no pill. To fix: put the real names in `data/windows.json` and
+   re-run; only the affected pill tracks change.
+2. **The 39 "dark" pins are rendered twice by design.** Each exists
+   as a transparent pin clip (the full 61-pin deliverable) *and* is
+   rendered inside its opaque graphics beat. Assembly uses only the
+   22 footage pins as overlays, so nothing is ever double-rendered
+   on screen.
+3. **Montserrat has no ≈ glyph** (verified in every subset with
+   fontTools). TE-41 and TE-50's subtext keep the spec's exact "≈"
+   character; it falls back to the browser's default sans for that
+   single character — visually near-identical at subtext size.
+   The ₱ sign *is* covered, via the latin-ext face (U+20B1).
+4. **Pill segment timing** is the cumulative sum of segment durations
+   in `windows.json` order (the file lists segments in timeline
+   order, and each beat's sum matches its retimed duration per the
+   spec's own validation).
+5. **Music ducking is a static low gain** (0.10) with fades, matching
+   Video 1's softer ducking — no sidechain, per the build brief.
+6. **Beat 49's logo-bug drop** is implemented (the spec's sanctioned
+   option), via the overlay's `enable` window in `plan.py`.
+7. Renders are ProRes 4444 and **large** (~37 MB for a 4s hero pin).
+   `rendered/` is git-ignored and must not be committed; the workflow
+   regenerates it on the runner's disk.
+
+## Local validation performed
+
+- `npm install` (Remotion 4.0.541) + `npx remotion compositions`:
+  all 118 render compositions + the LogoBug still list cleanly,
+  with durations matching the spec (both hero pins exactly 4.00s).
+- Rendered and frame-checked locally: the ₱10 hero pin (real ₱ glyph
+  in Montserrat, alpha `yuva444p12le`, exactly 4.000s — kept as
+  `proof-pin.mov` in this folder, git-ignored), graphics beat 36
+  (strike-throughs, hero stack), credit pill for beat 1, logo bug.
+- Assembly smoke test with dummy media (stand-in clips, the real
+  narration, and the four real sample renders): `assemble.sh` ran
+  end-to-end — 62 beats normalised, base measured 965.932s (target
+  966.048s, inside the ±0.5s gate), final pass with 70 inputs / 67
+  overlays produced a 966.102s H.264 + AAC file at −14.57 LUFS
+  integrated. Frames verified: beat 1 carries the "Aldrei Ong" pill
+  and the logo bug; a frame inside beat 49 correctly shows NO bug.
+  (One post-test tweak: `-ac 2` was added to the final encode so the
+  AAC comes out stereo even though the narration is mono — it only
+  affects the output channel layout.)

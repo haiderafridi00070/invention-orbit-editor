@@ -1,0 +1,2831 @@
+[
+ {
+  "beat": 1,
+  "segment": 1,
+  "topic": "Hook: a building that feels its cracks",
+  "timeline_in": 0.0,
+  "timeline_out": 6.297,
+  "duration": 6.297,
+  "narration": "There is a building in the Philippines that can feel its own cracks. Not metaphorically. Literally.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 0.0,
+    "out": 3.9,
+    "dur": 3.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 3.9,
+    "out": 6.3,
+    "dur": 2.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Animated cracks spreading across a dark wall, then a city building under the on-screen question 'IS THIS BUILDING STILL SAFE?'",
+  "note": "Film is animation for 0-96s; this is the film's literal crack/building opening."
+ },
+ {
+  "beat": 2,
+  "segment": 1,
+  "topic": "Hook: the block inside the walls",
+  "timeline_in": 6.297,
+  "timeline_out": 24.007,
+  "duration": 17.71,
+  "narration": "Somewhere inside its walls sits a small concrete block \u2014 the kind builders use by the thousands, and nobody ever looks at twice \u2014 and that block is quietly keeping watch over the whole structure. It knows when the concrete around it is under strain.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 20.0,
+    "out": 22.9,
+    "dur": 2.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 31.0,
+    "out": 34.7,
+    "dur": 3.7,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 34.7,
+    "out": 37.3,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 58.9,
+    "out": 61.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 66.4,
+    "out": 69.4,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 76.0,
+    "out": 78.5,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Building interior, white Sentinel module pulsing inside a wall context, building with glowing core, resistance gauge/graph, block transmitting from inside a frame, engineer monitoring in a corridor",
+  "note": "All animated sequences; module pulse + transmission shots carry the 'quietly keeping watch' clause."
+ },
+ {
+  "beat": 3,
+  "segment": 1,
+  "topic": "Hook: the block senses strain and reports",
+  "timeline_in": 24.007,
+  "timeline_out": 39.355,
+  "duration": 15.348,
+  "narration": "It knows when something inside begins to break. And it can report what it feels, without a single person touching the wall. Here is the strange part. This block is not a supercomputer. It is not covered in electronics.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 22.9,
+    "out": 25.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 25.9,
+    "out": 28.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 53.9,
+    "out": 56.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 86.9,
+    "out": 89.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 151.5,
+    "out": 154.9,
+    "dur": 3.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Crack-growth progression diagram (block to cracked block to failing building), cracked sensor cube under load, building 'speaking' before failure, real resistance-vs-time graph jumping at 'Crack!' beside the hammer test",
+  "note": "Final segment is real test footage; the rest is the film's animation of internal breakage and reporting."
+ },
+ {
+  "beat": 4,
+  "segment": 1,
+  "topic": "Hook: not electronics \u2014 ordinary material, one hidden difference",
+  "timeline_in": 39.355,
+  "timeline_out": 56.278,
+  "duration": 16.923,
+  "narration": "It is made of almost the same material as every ordinary block on the building site \u2014 with one hidden difference that changes everything. So, three questions. How can concrete \u2014 the most ordinary, silent material in construction \u2014 feel anything at all?",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 14.4,
+    "out": 16.7,
+    "dur": 2.3,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 37.3,
+    "out": 40.9,
+    "dur": 3.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 40.9,
+    "out": 44.0,
+    "dur": 3.1,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 49.1,
+    "out": 53.0,
+    "dur": 3.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 56.9,
+    "out": 58.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 61.9,
+    "out": 63.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Concrete-damage callout on a building, engineer with ordinary wall-mounted external sensors, inventor avatar holding the plain dark block, block transforming with graphene/carbon-fibre callouts, cracked cube close-up, electrical-flow diagram",
+  "note": "The 49.1-53.0 segment is the film's literal 'concrete + conductive filler = self-sensing concrete' reveal."
+ },
+ {
+  "beat": 5,
+  "segment": 1,
+  "topic": "Hook Q2: why hide a sensor in the cheapest part?",
+  "timeline_in": 56.278,
+  "timeline_out": 62.969,
+  "duration": 6.691,
+  "narration": "Why did one Filipino engineer hide his sensor inside the cheapest, most ignored part of a building?",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 233.0,
+    "out": 236.3,
+    "dur": 3.3,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 239.0,
+    "out": 242.4,
+    "dur": 3.4,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Hand holds and rotates the terracotta moulded spacer/cover block over rebar mesh in both ranges (edge frames at 233.3/236.0 and 239.3/242.1 all show the block in hand)",
+  "note": "Inside proven 224-264s display range; avoids 230-231s arm-crossing. Sums 6.7s vs 6.691s narration."
+ },
+ {
+  "beat": 6,
+  "segment": 1,
+  "topic": "Hook Q3: the cost number, withheld",
+  "timeline_in": 62.969,
+  "timeline_out": 76.349,
+  "duration": 13.38,
+  "narration": "And the number at the heart of this story \u2014 what it actually costs to make one of these blocks \u2014 is so small that when we reach it, you may not believe it.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 118.0,
+    "out": 121.1,
+    "dur": 3.1,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 121.1,
+    "out": 124.0,
+    "dur": 2.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 124.0,
+    "out": 126.3,
+    "dur": 2.3,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 141.3,
+    "out": 143.8,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 143.8,
+    "out": 146.4,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Eureka prototype board with wired concrete block (slow-zoom still photo in source), then real video of the white Sentinel block under the load/rod test",
+  "note": "FLAG: first 8.3s are a slow-zoom still photo in the source film (PSNR-verified), not true motion; the hero block material (141.3-146.3) is genuine moving video. No cost graphic exists anywhere in the film."
+ },
+ {
+  "beat": 7,
+  "segment": 2,
+  "topic": "Ring of Fire: the Philippines builds on dangerous ground",
+  "timeline_in": 76.349,
+  "timeline_out": 90.453,
+  "duration": 14.104,
+  "narration": "By the end of this video, you will know what it is. The Philippines builds on one of the most dangerous pieces of ground on Earth \u2014 the Pacific Ring of Fire.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_onsFXOCj6nQ.mp4",
+    "in": 2.0,
+    "out": 5.5,
+    "dur": 3.5,
+    "credit_pill": "Viory",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_onsFXOCj6nQ.mp4",
+    "in": 22.0,
+    "out": 25.5,
+    "dur": 3.5,
+    "credit_pill": "Viory",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_onsFXOCj6nQ.mp4",
+    "in": 44.0,
+    "out": 47.5,
+    "dur": 3.5,
+    "credit_pill": "Viory",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_onsFXOCj6nQ.mp4",
+    "in": 66.0,
+    "out": 69.6,
+    "dur": 3.6,
+    "credit_pill": "Viory",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Drone aerials: top-down debris-strewn flattened McDonald's drive-thru (2-5.5s), wide aerial of the same flattened McDonald's (22-25.5s), overhead town/road aerial (44-47.5s), close aerial of the damaged Jollibee (66-69.6s)",
+  "note": "Shot boundaries from scene detection (cuts at 19.5/32.0/38.5/59.8/89.3s) - every segment sits inside one shot. Viory watermark present throughout, as expected. Sums 14.1s vs 14.104s."
+ },
+ {
+  "beat": 8,
+  "segment": 2,
+  "topic": "Cebu earthquake strikes \u2014 M6.9, 30 Sep 2025",
+  "timeline_in": 90.453,
+  "timeline_out": 105.463,
+  "duration": 15.01,
+  "narration": "And in the last quarter of 2025, that ground gave the country a brutal reminder. On the 30th of September 2025, a magnitude 6.9 earthquake struck near Bogo City, in northern Cebu.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 9,
+  "segment": 2,
+  "topic": "Cebu toll: 79 killed, 559 injured, 159,379 houses damaged",
+  "timeline_in": 105.463,
+  "timeline_out": 120.004,
+  "duration": 14.541,
+  "narration": "According to the official figures reported afterwards, 79 people were killed, 559 were injured, and more than 159,000 houses were damaged. It was the deadliest Philippine earthquake in over a decade.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 10,
+  "segment": 2,
+  "topic": "Davao doublet \u2014 M7.4 + M6.8, 10 Oct 2025",
+  "timeline_in": 120.004,
+  "timeline_out": 141.111,
+  "duration": 21.107,
+  "narration": "Ten days later, the ground moved again \u2014 a magnitude 7.4 earthquake off Davao Oriental, followed the same day by a second shock of magnitude 6.8. Now here is the problem almost nobody talks about. After a major earthquake, the shaking is only the beginning.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 11,
+  "segment": 2,
+  "topic": "After a quake: is this building sound? \u2014 for thousands of buildings",
+  "timeline_in": 141.111,
+  "timeline_out": 159.874,
+  "duration": 18.763,
+  "narration": "Before anyone can safely go back inside, engineers have to answer one question, for thousands of buildings at once: is this structure still sound \u2014 or is it damaged in a place nobody can see? Because concrete hides its wounds.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 368.5,
+    "out": 372.3,
+    "dur": 3.8,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 395.5,
+    "out": 399.3,
+    "dur": 3.8,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 416.2,
+    "out": 419.9,
+    "dur": 3.7,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 446.5,
+    "out": 450.2,
+    "dur": 3.7,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 452.5,
+    "out": 456.3,
+    "dur": 3.8,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Damage at scale: wide collapsed red-roof buildings (368.5-372.3), damaged McDonald's from the street (395.5-399.3), Jollibee storefront with debris field (416.2-419.9), cracked-open road (446.5-450.2), church entrance rubble (452.5-456.3)",
+  "note": "Windows re-centred after edge-frame checks caught mid-segment cuts in the first picks (McD wide shot ends ~400s, Jollibee wide shot ends ~415s); final windows sit inside single verified shots. Disjoint from beat 46. Sums 18.8s vs 18.763s."
+ },
+ {
+  "beat": 12,
+  "segment": 2,
+  "topic": "Walls hide cracks; families sleep outside",
+  "timeline_in": 159.874,
+  "timeline_out": 177.616,
+  "duration": 17.742,
+  "narration": "A wall can look perfectly straight while the material inside it is cracked. And until somebody proves a building is safe, families sleep outside it. For Metro Manila, the scenario engineers plan for is a magnitude 7.2 earthquake.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_WuxBaJC24h0.mp4",
+    "in": 69.2,
+    "out": 72.2,
+    "dur": 3.0,
+    "credit_pill": "Republic TV",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_WuxBaJC24h0.mp4",
+    "in": 21.9,
+    "out": 25.4,
+    "dur": 3.5,
+    "credit_pill": "Republic TV",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_WuxBaJC24h0.mp4",
+    "in": 25.6,
+    "out": 29.3,
+    "dur": 3.7,
+    "credit_pill": "Republic TV",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_WuxBaJC24h0.mp4",
+    "in": 39.6,
+    "out": 43.6,
+    "dur": 4.0,
+    "credit_pill": "Republic TV",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_WuxBaJC24h0.mp4",
+    "in": 55.0,
+    "out": 58.5,
+    "dur": 3.5,
+    "credit_pill": "Republic TV",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Clause 1: fallen debris inside a damaged church interior (69.2-72.2, vertical phone footage). Clause 2: hospital patients in beds wheeled outside (21.9-25.4), evacuee families on camp cots under blue canopy tents (25.6-29.3), outdoor triage crowd (39.6-43.6), night crowd outdoors (55-58.5)",
+  "note": "Honest limit: the tents footage shows families resting on cots in tents, not literally asleep (accepted upstream). Patients and tents ranges are adjacent but disjoint (25.4 out / 25.6 in). Interior shot is only ~69-72.5s before a cut to an unrelated pageant clip at ~73s - window stays inside it. Night crowd is vertical/pillarboxed, used for one segment only. Sums 17.7s vs 17.742s."
+ },
+ {
+  "beat": 13,
+  "segment": 2,
+  "topic": "The Big One: Manila M7.2 scenario \u2014 ~48,000 deaths, $48B",
+  "timeline_in": 177.616,
+  "timeline_out": 198.441,
+  "duration": 20.825,
+  "narration": "In the estimate cited in Dyson's own announcement of this story, that single event could kill around 48,000 people, and cause 48 billion dollars in losses. That is what is at stake in knowing \u2014 quickly \u2014 which buildings are hurt, and which are not.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 14,
+  "segment": 3,
+  "topic": "The old way: eyes and rebound hammers",
+  "timeline_in": 198.441,
+  "timeline_out": 218.802,
+  "duration": 20.361,
+  "narration": "So how do engineers check a building today? Mostly the way they have for decades \u2014 slowly, and by hand. They walk the structure and look for cracks with their eyes. They strike the concrete with rebound hammers, and study what the numbers suggest.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 19.5,
+    "out": 22.5,
+    "dur": 3.0,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_WabJTYEhg4U.mp4",
+    "in": 14.6,
+    "out": 17.6,
+    "dur": 3.0,
+    "credit_pill": "FPrimeC",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 14.5,
+    "out": 17.5,
+    "dur": 3.0,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 52.5,
+    "out": 55.5,
+    "dur": 3.0,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 503.5,
+    "out": 506.3,
+    "dur": 2.8,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 162.5,
+    "out": 165.3,
+    "dur": 2.8,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8gmI0CHAJck.mp4",
+    "in": 296.9,
+    "out": 299.7,
+    "dur": 2.8,
+    "credit_pill": "Civil Site Visit",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "GM: inspector walks/pans along bridge concrete holding hammer, hammer pressed to column, to bridge soffit and to a concrete wall; WAB: kneeling inspector hammer-tests a foundation block by hand; GM: hand works through handwritten rebound readings and red-annotates the rebound chart (30 N/mm2 written live).",
+  "note": "Clause map: walk/look = GM 19.5-22.5 (only walking-along-structure passage in either file; no literal crack-inspection walk exists); by-hand/slow = WAB 14.6-17.6; striking = GM 14.5-17.5, GM 52.5-55.5, GM 503.5-506.3; numbers = GM 162.5-165.3 (readings) + GM 296.9-299.7 (chart, low but continuous pen motion). REJECTED after motion check: WAB 44.9-47.7 vertical press is a frozen/annotated hold in the source (frame-diff ~0.01) and WAB's chart at 58.6-72s is a static slide; WAB title card 2-6s also avoided. Sum 20.400 vs 20.361 (+0.039)."
+ },
+ {
+  "beat": 15,
+  "segment": 3,
+  "topic": "The old way: drill cores, crush in a lab",
+  "timeline_in": 218.802,
+  "timeline_out": 225.281,
+  "duration": 6.479,
+  "narration": "Sometimes they drill cores out of the building, and crush them in a laboratory.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_va8lFuAiyco.mp4",
+    "in": 287.5,
+    "out": 290.7,
+    "dur": 3.2,
+    "credit_pill": "BLUEROCK Tools",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_va8lFuAiyco.mp4",
+    "in": 636.5,
+    "out": 639.8,
+    "dur": 3.3,
+    "credit_pill": "BLUEROCK Tools",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Red BLUEROCK handheld core drill held against the curved concrete foundation wall, bit in contact and cutting (single shot 278.9-381.2s); second angle: operator standing, drill pressed into the same concrete wall (single shot 622.1-655.9s).",
+  "note": "Both segments are drill-in-contact cutting, not unboxing/handling (20-270s) or finished-hole pointing (432-513s). Sum 6.500 vs 6.479 (+0.021). BLUEROCK watermark present top-left as expected."
+ },
+ {
+  "beat": 16,
+  "segment": 3,
+  "topic": "Old methods: slow, late, and they miss internal cracks",
+  "timeline_in": 225.281,
+  "timeline_out": 243.792,
+  "duration": 18.511,
+  "narration": "These methods work \u2014 but they are slow, they are expensive, they usually happen only after damage is already visible, and they can miss the damage that matters most: the cracks forming inside the concrete, where no eye can reach.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_RlNDmxseTmY.mp4",
+    "in": 448.9,
+    "out": 452.9,
+    "dur": 4.0,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_RlNDmxseTmY.mp4",
+    "in": 303.0,
+    "out": 307.0,
+    "dur": 4.0,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_RlNDmxseTmY.mp4",
+    "in": 388.7,
+    "out": 392.7,
+    "dur": 4.0,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_RlNDmxseTmY.mp4",
+    "in": 87.0,
+    "out": 90.4,
+    "dur": 3.4,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_RlNDmxseTmY.mp4",
+    "in": 957.0,
+    "out": 960.1,
+    "dur": 3.1,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Damaged/collapsed structures throughout: aerial of a fully collapsed building with folded red roof (448.9-452.9), collapsed housing block (303-307), ruined church rubble pile (388.7-392.7), collapsed ACRIGE Apartelle (87-90.4); closing segment shows Civil Defense responders walking a property line inspecting by eye (957-960.1)",
+  "note": "Documentary cuts every ~1.5-4s in its montage sections, so several attractive shots (damaged interior ceiling ~416-417.3s, collapsed pavilion ~420.8-422.3s, church entrance ~422.5-424.2s) are shorter than the 2.0s segment minimum and were rejected rather than padded across cuts. The responders segment carries the 'slow manual inspection' clause; it is inspection footage, not a damaged building. Sums 18.5s vs 18.511s."
+ },
+ {
+  "beat": 17,
+  "segment": 3,
+  "topic": "Structural health monitoring exists",
+  "timeline_in": 243.792,
+  "timeline_out": 257.861,
+  "duration": 14.069,
+  "narration": "There is a more advanced option. It is called structural health monitoring \u2014 networks of precision sensors fixed onto a building, to watch it full-time. It exists. It is excellent.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 148.0,
+    "out": 151.9,
+    "dur": 3.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 308.0,
+    "out": 311.9,
+    "dur": 3.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 350.0,
+    "out": 353.9,
+    "dur": 3.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 628.0,
+    "out": 630.4,
+    "dur": 2.4,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Hands fit a crack gauge on cracked concrete (148-151.9), hands mount a strain gauge on a steel beam (308-311.9), GEOKON vibrating-wire readout live (350-353.9), finger on crack gauge (628-630.4) \u2014 frame-verified sheets pe_b17a/pe_truss/pe_b1718.",
+  "note": "All hands-on sensor/instrument shots; sponsor zone ~915-1000s avoided entirely."
+ },
+ {
+  "beat": 18,
+  "segment": 3,
+  "topic": "SHM goes on dams and bridges \u2014 not ordinary houses",
+  "timeline_in": 257.861,
+  "timeline_out": 272.868,
+  "duration": 15.007,
+  "narration": "And it is so expensive that in practice it goes onto dams, bridges and showcase towers \u2014 not onto the ordinary concrete houses, schools and apartment blocks where most Filipinos actually live.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 718.5,
+    "out": 721.5,
+    "dur": 3.0,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 620.5,
+    "out": 623.5,
+    "dur": 3.0,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 300.0,
+    "out": 302.9,
+    "dur": 2.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 727.0,
+    "out": 730.9,
+    "dur": 3.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 736.0,
+    "out": 738.2,
+    "dur": 2.2,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Animated cross-section labelled PIEZOMETER (718.5-721.5), concrete bridge underside (620.5-623.5), steel truss bridge over river (300-302.9), field piezometer pipe (727-730.9), datalogger+laptop readout (736-738.2).",
+  "note": "Piezometer animation used for the dam clause per brief; disjoint from beat 17 ranges."
+ },
+ {
+  "beat": 19,
+  "segment": 3,
+  "topic": "The unquestioned rule: concrete is dead material",
+  "timeline_in": 272.868,
+  "timeline_out": 293.034,
+  "duration": 20.166,
+  "narration": "Underneath all of this sat one rule that nobody questioned: concrete is dead material. It is the dumb, silent part of a building. Sensors are delicate electronics that you attach to a structure afterwards \u2014 the building itself could never be the sensor.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 10.0,
+    "out": 13.4,
+    "dur": 3.4,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 110.0,
+    "out": 113.3,
+    "dur": 3.3,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 160.0,
+    "out": 163.4,
+    "dur": 3.4,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 200.0,
+    "out": 203.3,
+    "dur": 3.3,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 245.0,
+    "out": 248.4,
+    "dur": 3.4,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Zb4-nUlGvHA.mp4",
+    "in": 256.0,
+    "out": 259.4,
+    "dur": 3.4,
+    "credit_pill": "Er Arif Ansari",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Rebar bars and mesh resting dumb on formwork/slab (10s, 110s, 160s, 200s ranges), then the cover block in hand at 245-248.4s and from its notched side profile at the 256-259.4s anchor",
+  "note": "Disjoint from beat 5 (233.0-236.3, 239.0-242.4). Sums 20.2s vs 20.166s. All six edge-frame pairs verified on-subject."
+ },
+ {
+  "beat": 20,
+  "segment": 4,
+  "topic": "Meet Aldrei Ong",
+  "timeline_in": 293.034,
+  "timeline_out": 314.138,
+  "duration": 21.104,
+  "narration": "One engineer in Manila decided that rule was wrong. His name is Aldrei Ong \u2014 a Filipino structural engineer, and a Master of Science graduate in Civil Engineering from De La Salle University, in Manila. Ong's work puts him in front of the problem directly.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 122.0,
+    "out": 124.0,
+    "dur": 2.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 124.0,
+    "out": 126.2,
+    "dur": 2.2,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 756.5,
+    "out": 760.5,
+    "dur": 4.0,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 760.5,
+    "out": 764.5,
+    "dur": 4.0,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 115.0,
+    "out": 117.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 134.9,
+    "out": 137.9,
+    "dur": 3.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 137.9,
+    "out": 140.9,
+    "dur": 3.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "The real Aldrei Ong: presenting Sentinel in his laboratory and working at the bench (James Dyson Foundation winners film); the De La Salle University historical marker with its header readable (FZTw walk); Ong on a construction site holding a tablet. Coordinator-verified on a 2s-interval contact sheet of the winners film (Ong lab sequence ~122-141s, site shot ~114-118s, marker pass in spec_D).",
+  "note": "MERGE RESOLUTION: the entry film contains NO live Ong anywhere (agent A's full 1fps pass), so this beat is covered from the winners film - the only other registered source with Ong on camera - plus the FZTw marker range. Winners-film ranges are disjoint from beat 42's. Segment 5 starts inside the site shot; boundaries from 2s sampling are +/-0.5s - trim on the cut if a flash frame appears."
+ },
+ {
+  "beat": 21,
+  "segment": 4,
+  "topic": "Ong's world: clients needing post-quake inspections",
+  "timeline_in": 314.138,
+  "timeline_out": 330.552,
+  "duration": 16.414,
+  "narration": "His clients want their buildings inspected after earthquakes, and repeatedly throughout their lives. Again and again, he faced the same gap: after the shaking stops, nobody can quickly say what is happening inside the concrete.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Graphics beat by the user's 2026-11-05 decision (no honest footage source). Design in graphics-beats.md; pins in text-events.md/.json.",
+  "segments": []
+ },
+ {
+  "beat": 22,
+  "segment": 4,
+  "topic": "Lead-in: the question the story hangs on",
+  "timeline_in": 330.552,
+  "timeline_out": 335.879,
+  "duration": 5.327,
+  "narration": "And that is where he asked the question this whole story hangs on.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 6.9,
+    "out": 9.4,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 11.0,
+    "out": 13.8,
+    "dur": 2.8,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Animated engineer with tablet standing before earthquake-damaged buildings, then the two buildings with the engineer's assessment/clipboard thought-bubble",
+  "note": "No live Ong speaking exists in the film; this is the film's question-asking engineer material. The literal 'IS THIS BUILDING STILL SAFE?' title range (3.9-6.3) was already consumed by beat 1 under the distinctness rule."
+ },
+ {
+  "beat": 23,
+  "segment": 4,
+  "topic": "The quote: smoke detectors, fire alarms, CCTVs \u2014 why not a structure sensor?",
+  "timeline_in": 335.879,
+  "timeline_out": 353.909,
+  "duration": 18.03,
+  "narration": "Listen to it carefully, because it sounds almost too simple: \"If buildings can have smoke detectors, fire alarms, and CCTVs \u2014 why not have a sensor that can give the structural condition of a building?\" Smoke detectors watch the air. Alarms watch for fire.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_dN76YbD9UuE.mp4",
+    "in": 21.0,
+    "out": 24.9,
+    "dur": 3.9,
+    "credit_pill": "This Old House",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_dN76YbD9UuE.mp4",
+    "in": 180.0,
+    "out": 182.9,
+    "dur": 2.9,
+    "credit_pill": "This Old House",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_dN76YbD9UuE.mp4",
+    "in": 246.0,
+    "out": 249.9,
+    "dur": 3.9,
+    "credit_pill": "This Old House",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_dN76YbD9UuE.mp4",
+    "in": 264.0,
+    "out": 267.9,
+    "dur": 3.9,
+    "credit_pill": "This Old House",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_dN76YbD9UuE.mp4",
+    "in": 300.0,
+    "out": 303.4,
+    "dur": 3.4,
+    "credit_pill": "This Old House",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Countertop spread with round smoke/CO detectors + keypad (21-24.9), 'Sensor #1 HLD3' door contact close-up (180-182.9), smoke detector pressed to ceiling (246-249.9), alarm keypad mounted/pressed (264-267.9), CCTV camera close-up in hand (300-303.4).",
+  "note": "All three quoted nouns land: smoke detector, alarm keypad, camera \u2014 in narration order."
+ },
+ {
+  "beat": 24,
+  "segment": 4,
+  "topic": "The structure had no voice; the thesis at De La Salle",
+  "timeline_in": 353.909,
+  "timeline_out": 370.299,
+  "duration": 16.39,
+  "narration": "Cameras watch the doors. But the structure itself \u2014 the bones of the building \u2014 had no voice at all. Ong's answer began as his master's thesis at De La Salle: a piece of concrete that could speak for itself.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 678.0,
+    "out": 681.3,
+    "dur": 3.3,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 681.3,
+    "out": 684.6,
+    "dur": 3.3,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 684.6,
+    "out": 687.9,
+    "dur": 3.3,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 687.9,
+    "out": 691.2,
+    "dur": 3.3,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_FZTwAhJGthY.mp4",
+    "in": 691.2,
+    "out": 694.4,
+    "dur": 3.2,
+    "credit_pill": "Kadang Pinas Tours",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "One continuous walking take along Taft Avenue past St. La Salle Hall: the pediment lettering 'DE LA SALLE UNIVERSITY' is readable at full resolution (~679-682s) and the white neoclassical facade, fence and lawn fill the frame throughout 678-694s.",
+  "note": "Five consecutive slices of a single continuous range (no cut). The 'cameras watch the doors' clause has no literal camera/door shot in this source; the DLSU entrance doors with security cameras exist at 748-755s if the parent wants a clause-exact swap for one slice. Sum 16.400 vs 16.390 (+0.010). OPTIONAL SWAP (coordinator): the line's first clause ('Cameras watch the doors') has no literal shot in the chosen range; the DLSU entrance doors with security cameras exist at FZTw 748.5-755.5 (spec_D alternate) if the parent wants one slice swapped for clause exactness."
+ },
+ {
+  "beat": 25,
+  "segment": 5,
+  "topic": "Sentinel \u2014 the guard; teaching concrete to feel",
+  "timeline_in": 370.299,
+  "timeline_out": 385.87,
+  "duration": 15.571,
+  "narration": "He called it Sentinel \u2014 the guard. So how do you teach concrete to feel? Start with the part Ong chose to hide his invention inside \u2014 because that choice is the cleverest part of the whole design.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 29.0,
+    "out": 31.0,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 152.0,
+    "out": 155.9,
+    "dur": 3.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 126.2,
+    "out": 128.9,
+    "dur": 2.7,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 126.3,
+    "out": 129.8,
+    "dur": 3.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 173.9,
+    "out": 177.4,
+    "dur": 3.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "SLOW-DRIFT (slow drift over a photo in the source film - see decision block D1)"
+    ]
+   }
+  ],
+  "evidence": "Sentinel logo reveal card (film, allowed for the naming beat); Aldrei Ong outdoors holding the grey Sentinel device (winners film hero shot); Ong at his bench moving to the block close-up; the film's perfboard electronics and concrete-interior drift (both flagged).",
+  "note": "MERGE RESOLUTION: agent A could honestly allocate only 9.0s from the film; the 6.571s shortfall is covered from the winners film (Ong holding the device = 'the part Ong chose to hide his invention inside'). Flags: film 126.3-129.8 is a slow-zoom still photo; film 173.9-177.4 is a slow drift over a photo (see the stills decision block)."
+ },
+ {
+  "beat": 26,
+  "segment": 5,
+  "topic": "Spacer blocks hold rebar at the right distance",
+  "timeline_in": 385.87,
+  "timeline_out": 401.851,
+  "duration": 15.981,
+  "narration": "When builders pour a concrete wall or column, the steel bars inside it \u2014 the rebar \u2014 must be held at exactly the right distance from the surface. The small blocks that do that job are called spacer blocks.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 16.0,
+    "out": 20.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 51.0,
+    "out": 55.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 56.0,
+    "out": 60.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 76.0,
+    "out": 80.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Rebar rods resting across rows of white cover blocks stamped '25' on the demo slab, three clean wide rows with no hand and no overlays",
+  "note": "Windows verified at 2s sampling; avoided the pile inset overlay (~9.5-15.5) and the SUBSCRIBE button (~45-51)."
+ },
+ {
+  "beat": 27,
+  "segment": 5,
+  "topic": "Spacer blocks: cheap, standard, everywhere, forgotten",
+  "timeline_in": 401.851,
+  "timeline_out": 419.869,
+  "duration": 18.018,
+  "narration": "They are cheap, they are standard, they are already inside almost every reinforced-concrete building in the Philippines \u2014 and once the concrete is poured, nobody ever thinks about them again. Ong makes that forgotten block out of a special material: self-sensing concrete.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 84.0,
+    "out": 88.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 92.0,
+    "out": 96.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 205.0,
+    "out": 209.0,
+    "dur": 4.0,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 238.0,
+    "out": 241.5,
+    "dur": 3.5,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 344.0,
+    "out": 346.5,
+    "dur": 2.5,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Hand holding and rotating a white cover block close to camera (twice), tape measure stretched across a block (twice), full-screen pile of round cover blocks with tie wires",
+  "note": "Tape windows chosen to avoid subscribe overlays and the picture-in-picture insets (~218-224, ~244+); pile window sits inside the ~343.5-347.5 full-screen pile shot."
+ },
+ {
+  "beat": 28,
+  "segment": 5,
+  "topic": "DIAGRAM 1: self-sensing concrete \u2014 conductive pathways form",
+  "timeline_in": 419.869,
+  "timeline_out": 432.751,
+  "duration": 12.882,
+  "narration": "It is ordinary concrete, with one change \u2014 tiny conductive materials, including graphene and carbon fiber, are mixed through it, forming microscopic electrical pathways inside the block.",
+  "type": "diagram",
+  "status": "DIAGRAM",
+  "note": "Covered by the existing mechanism diagram D1.mp4 (one asset spanning beats 28-32, timeline 419.869-500.976). Ruling in graphics-beats.md.",
+  "segments": []
+ },
+ {
+  "beat": 29,
+  "segment": 5,
+  "topic": "DIAGRAM 2: electrodes + compact electronic module",
+  "timeline_in": 432.751,
+  "timeline_out": 442.293,
+  "duration": 9.542,
+  "narration": "Two small electrodes are embedded in the block, and after construction, the block is connected to a compact electronic module.",
+  "type": "diagram",
+  "status": "DIAGRAM",
+  "note": "Covered by the existing mechanism diagram D1.mp4 (one asset spanning beats 28-32, timeline 419.869-500.976). Ruling in graphics-beats.md.",
+  "segments": []
+ },
+ {
+  "beat": 30,
+  "segment": 5,
+  "topic": "DIAGRAM 3: the module measures resistance vs the new-block baseline",
+  "timeline_in": 442.293,
+  "timeline_out": 463.762,
+  "duration": 21.469,
+  "narration": "The module passes a controlled electrical signal through the concrete, and measures its electrical resistance \u2014 comparing it, every time, against the reading taken when the block was new and undamaged. While the concrete is healthy, the pathways carry the signal in a steady pattern.",
+  "type": "diagram",
+  "status": "DIAGRAM",
+  "note": "Covered by the existing mechanism diagram D1.mp4 (one asset spanning beats 28-32, timeline 419.869-500.976). Ruling in graphics-beats.md.",
+  "segments": []
+ },
+ {
+  "beat": 31,
+  "segment": 5,
+  "topic": "DIAGRAM 4: cracking breaks pathways \u2014 resistance changes",
+  "timeline_in": 463.762,
+  "timeline_out": 482.369,
+  "duration": 18.607,
+  "narration": "But when an earthquake strains the structure and the concrete cracks, those pathways are broken and disturbed \u2014 and the resistance changes, in a way that can be measured. The damage announces itself as a change in a number.",
+  "type": "diagram",
+  "status": "DIAGRAM",
+  "note": "Covered by the existing mechanism diagram D1.mp4 (one asset spanning beats 28-32, timeline 419.869-500.976). Ruling in graphics-beats.md.",
+  "segments": []
+ },
+ {
+  "beat": 32,
+  "segment": 5,
+  "topic": "DIAGRAM 5: readings travel wirelessly to a dashboard",
+  "timeline_in": 482.369,
+  "timeline_out": 500.976,
+  "duration": 18.607,
+  "narration": "That reading travels wirelessly to an online dashboard, where engineers can watch the building's condition over time \u2014 and after an earthquake, see at a glance which parts of the structure are signalling that they need a closer look.",
+  "type": "diagram",
+  "status": "DIAGRAM",
+  "note": "Covered by the existing mechanism diagram D1.mp4 (one asset spanning beats 28-32, timeline 419.869-500.976). Ruling in graphics-beats.md.",
+  "segments": []
+ },
+ {
+  "beat": 33,
+  "segment": 5,
+  "topic": "Placement: only where stresses run highest",
+  "timeline_in": 500.976,
+  "timeline_out": 520.254,
+  "duration": 19.278,
+  "narration": "And notice what Ong did not do. He did not propose rebuilding the world out of sensor concrete. The sensing blocks go only into strategically chosen positions, where the stresses run highest. A handful of quiet guards, posted exactly where trouble would start.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 63.9,
+    "out": 66.4,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 308.0,
+    "out": 311.9,
+    "dur": 3.9,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 316.0,
+    "out": 319.9,
+    "dur": 3.9,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 78.5,
+    "out": 81.9,
+    "dur": 3.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_QmSzQeOsjwU.mp4",
+    "in": 324.0,
+    "out": 327.6,
+    "dur": 3.6,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 169.3,
+    "out": 171.3,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   }
+  ],
+  "evidence": "Film: the block seated inside a structural frame, transmitting; corridor engineer as the PRIORITIZE INSPECTIONS icons build. QmSz (coordinator-verified on a 2s contact sheet, 300-346s): a worker's hand placing white cover blocks at chosen points under a rebar mesh on a real roof slab - blocks posted exactly where the structure needs them. Film satellite map of the deployment area closes the beat (flagged still).",
+  "note": "MERGE RESOLUTION: agent A covered 7.9s from the film; the 11.378s shortfall is covered by the QmSz placement close-ups, which are the most literal 'blocks into chosen positions' footage in the pool. DEVIATION: QmSzQeOsjwU thereby serves 3 beats (26, 27, 33) against the prep-stage 2-beat cap - ranges are disjoint and the subject match is exact. Flag: film 169.3-171.3 is a slow-zoom map still."
+ },
+ {
+  "beat": 34,
+  "segment": 6,
+  "topic": "Arriving at the withheld number",
+  "timeline_in": 520.254,
+  "timeline_out": 533.703,
+  "duration": 13.449,
+  "narration": "Now we arrive at the number this video has been holding back \u2014 the reason this invention is not just clever, but dangerous to the old way of doing things.",
+  "type": "text-led",
+  "status": "TEXT-LED",
+  "segments": [],
+  "evidence": "No footage. The line is a pure rhetorical build-up ('Now we arrive at the number this video has been holding back') with no literal subject to match.",
+  "note": "FOOTAGE UNRESOLVED - BY DESIGN DECISION: every genuine hero-block range in the entry film is consumed by beats 6 and 35 under the first-10-minutes distinctness rule, and no other registered source holds a Sentinel block close-up that is not already committed. Rather than force a weak match, this beat is carried by the kinetic text layer over a dark background (chapter card THE NUMBER + the assembled question line - see text-events TE-24/TE-25 and graphics-beats.md). If the parent prefers footage here, the only honest candidate is a waiver to second-use the film's 154.9-156.9 block close-up (first use: beat 35) inside the first 10 minutes."
+ },
+ {
+  "beat": 35,
+  "segment": 6,
+  "topic": "Build-up: Ong's official entry states the cost",
+  "timeline_in": 533.703,
+  "timeline_out": 551.187,
+  "duration": 17.484,
+  "narration": "Remember what the sensing block is: a spacer block, one of the cheapest components on a building site. And on his official entry, Ong states what it costs to manufacture one Sentinel block. Ten pesos. Around fifteen American cents.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 106.0,
+    "out": 109.3,
+    "dur": 3.3,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 134.2,
+    "out": 137.7,
+    "dur": 3.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 137.7,
+    "out": 141.3,
+    "dur": 3.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 146.4,
+    "out": 148.9,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 148.9,
+    "out": 151.5,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 154.9,
+    "out": 156.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Real destructive concrete-testing rig on a building, perfboard module photos (slow-zoom stills), real white Sentinel block under load test, ending on the closest hammer/block close-up in the film",
+  "note": "FLAG: the film shows NO cost graphic and never states the 10-peso price on screen (verified full pass) - the price must come from the edit's own graphics. FLAG: 134.2-141.3 are slow-zoom still photos of the reader module, not the block itself."
+ },
+ {
+  "beat": 36,
+  "segment": 6,
+  "topic": "THE REVEAL: ten pesos (~$0.15) per block",
+  "timeline_in": 551.187,
+  "timeline_out": 570.913,
+  "duration": 19.726,
+  "narration": "Not ten thousand pesos of imported electronics. Not a monitoring contract. Ten pesos to make the block itself \u2014 because the sensor is not a device added to the concrete. The sensor is the concrete. That is the real break with the old rule.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 37,
+  "segment": 6,
+  "topic": "Monitoring stops being a luxury",
+  "timeline_in": 570.913,
+  "timeline_out": 585.259,
+  "duration": 14.346,
+  "narration": "Structural monitoring was a luxury fixed onto famous buildings, because the sensors were precious objects. When the sensor is a block that costs ten pesos to make, monitoring stops being a luxury.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 117.0,
+    "out": 120.9,
+    "dur": 3.9,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 114.0,
+    "out": 116.4,
+    "dur": 2.4,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_DdbmTl0rhGw.mp4",
+    "in": 126.0,
+    "out": 128.0,
+    "dur": 2.0,
+    "credit_pill": "Practical Engineering",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 128.9,
+    "out": 130.9,
+    "dur": 2.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 130.9,
+    "out": 132.9,
+    "dur": 2.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 132.9,
+    "out": 134.9,
+    "dur": 2.0,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Clause 1 (luxury monitoring on prestige structures): aerial of a white steel arch bridge with the source's own sensor-ping overlay; GEOKON GK-404 precision readout against weathered concrete; monitoring equipment on a dam crest (all Practical Engineering, coordinator-verified at 1s sampling, 112-128s). Clause 2 (the ten-peso block ends the luxury): Ong holding the Sentinel device and its block close-up in his lab (winners film).",
+  "note": "MERGE RESOLUTION: replaces agent A's fallback (two slow-zoom still photos from the film) with 100% moving footage. DEVIATION: DdbmTl0rhGw thereby serves 3 beats (17, 18, 37) against the prep-stage 2-beat cap - ranges disjoint, subject match literal. The bridge aerial carries the source's small animated sensor-ping graphic; it is the source's own monitoring visualisation and is kept."
+ },
+ {
+  "beat": 38,
+  "segment": 7,
+  "topic": "Anywhere concrete goes \u2014 everywhere in the Philippines",
+  "timeline_in": 585.259,
+  "timeline_out": 600.445,
+  "duration": 15.186,
+  "narration": "It can, in principle, go anywhere concrete goes \u2014 which, in the Philippines, is everywhere. If this sounds like a student's clever idea that the world would politely ignore, here is what actually happened.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_E3JIMZgs2kg.mp4",
+    "in": 74.0,
+    "out": 77.9,
+    "dur": 3.9,
+    "credit_pill": "Explore The World 4K",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_E3JIMZgs2kg.mp4",
+    "in": 80.0,
+    "out": 83.9,
+    "dur": 3.9,
+    "credit_pill": "Explore The World 4K",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_E3JIMZgs2kg.mp4",
+    "in": 24.0,
+    "out": 27.9,
+    "dur": 3.9,
+    "credit_pill": "Explore The World 4K",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_E3JIMZgs2kg.mp4",
+    "in": 16.0,
+    "out": 19.5,
+    "dur": 3.5,
+    "credit_pill": "Explore The World 4K",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Sunset Makati towers wall-to-wall, one continuous drone shot 72-86s (two disjoint slices), plus two further distinct tower ranges: dark towers 24-27.9 and glass-tower street canyon 16-19.5. Sheets mnl_a/mnl_sky.",
+  "note": "Coastal/boats trap zone ~240-260s and marina range ~440s avoided; only tower skylines used. Channel 'Explore The World 4K' watermark sits top-left throughout, as expected."
+ },
+ {
+  "beat": 39,
+  "segment": 7,
+  "topic": "September 2026: the Philippine national round",
+  "timeline_in": 600.445,
+  "timeline_out": 611.132,
+  "duration": 10.687,
+  "narration": "In September 2026, the Philippines held its national round of the James Dyson Award \u2014 the global invention competition. Sentinel did not win it.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Graphics beat by the user's 2026-11-05 decision (no honest footage source). Design in graphics-beats.md; pins in text-events.md/.json.",
+  "segments": []
+ },
+ {
+  "beat": 40,
+  "segment": 7,
+  "topic": "National winner BiDaKidney; Sentinel the runner-up",
+  "timeline_in": 611.132,
+  "timeline_out": 625.381,
+  "duration": 14.249,
+  "narration": "The national winner was a home dialysis machine called BiDaKidney \u2014 the subject of our first video \u2014 and Sentinel went home as a runner-up. But the story did not end there.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_1nEhV_u2FdM.mp4",
+    "in": 388.0,
+    "out": 391.9,
+    "dur": 3.9,
+    "credit_pill": "ANC 24/7",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_1nEhV_u2FdM.mp4",
+    "in": 478.0,
+    "out": 481.9,
+    "dur": 3.9,
+    "credit_pill": "ANC 24/7",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_1nEhV_u2FdM.mp4",
+    "in": 490.0,
+    "out": 493.9,
+    "dur": 3.9,
+    "credit_pill": "ANC 24/7",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_1nEhV_u2FdM.mp4",
+    "in": 546.0,
+    "out": 548.5,
+    "dur": 2.5,
+    "credit_pill": "ANC 24/7",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Split-frame throughout: inventor (named in lower third, Andrew Jacob Buensalido at 384s) on left, the actual BiDaKidney machine in the right inset \u2014 hands adjusting it (388-391.9), desk close-ups (478-481.9, 490-493.9), lab close-up with display (546-548.5).",
+  "note": "Machine itself is visible in every segment, inventor alongside; ANC lower thirds read 'JAMES DYSON WINNER BIDAKIDNEY'. A still-photo inset of both inventors holding the machine exists at ~474s but its shot length is unverified, so it was not used."
+ },
+ {
+  "beat": 41,
+  "segment": 7,
+  "topic": "Top 20: twelve Dyson engineers, 14 Oct 2026",
+  "timeline_in": 625.381,
+  "timeline_out": 640.076,
+  "duration": 14.695,
+  "narration": "In October, a panel of twelve Dyson engineers placed Sentinel in the Global Top 20 \u2014 the first time in the award's history that the Philippines had two inventions in that final group.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 42,
+  "segment": 7,
+  "topic": "4 Nov 2026: Dyson announces the winners \u2014 2,294 entries, 28 countries",
+  "timeline_in": 640.076,
+  "timeline_out": 652.989,
+  "duration": 12.913,
+  "narration": "And on the 4th of November 2026, Sir James Dyson himself announced the global winners, chosen from a record 2,294 entries, across 28 countries. The Global Sustainability Winner: Sentinel.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 103.0,
+    "out": 105.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 107.0,
+    "out": 109.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 110.0,
+    "out": 113.9,
+    "dur": 3.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_Vzm6MRVzzUA.mp4",
+    "in": 99.0,
+    "out": 102.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Sir James Dyson on camera discussing the winners (103-105.9 and 110-113.9), hands screwing the Sentinel device under a ceiling (107-109.9), and LAST the winner card 'Global Sustainability Winner / Sentinel, Philippines / Invented by Aldrei Ong' over a block close-up (99-102.2; card runs ~98.5-102.9).",
+  "note": "Winner card placed as the final segment as required. Full content map and the flagged Ong-demo range are in spec_C_notes.md."
+ },
+ {
+  "beat": 43,
+  "segment": 7,
+  "topic": "Prize: \u00a330,000 \u2248 \u20b12,390,230",
+  "timeline_in": 652.989,
+  "timeline_out": 672.582,
+  "duration": 19.593,
+  "narration": "With it came a prize of 30,000 pounds \u2014 about 2.39 million pesos \u2014 to develop the invention further. And listen to why Dyson said he chose it: \"After an earthquake, serious damage inside a concrete building can be invisible \u2014 and potentially fatal.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 44,
+  "segment": 7,
+  "topic": "Dyson's quote: a component turned into a low-cost sensor",
+  "timeline_in": 672.582,
+  "timeline_out": 687.993,
+  "duration": 15.411,
+  "narration": "Aldrei's Sentinel cleverly turns a component already used in construction into a low-cost sensor that detects cracks and gives early warning of damage.\" The runner-up had beaten the national winner \u2014 and everyone else on Earth.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 22.9,
+    "out": 25.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 25.9,
+    "out": 28.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 53.9,
+    "out": 56.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 86.9,
+    "out": 89.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 151.5,
+    "out": 154.9,
+    "dur": 3.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   }
+  ],
+  "evidence": "Second use of beat 3's crack-progression, cracked cube, building-signalling and Crack! graph segments - the block detecting cracks and giving early warning",
+  "note": "All segments are declared second uses of beat 3."
+ },
+ {
+  "beat": 45,
+  "segment": 8,
+  "topic": "Callback: AuREUS won this title six years earlier",
+  "timeline_in": 687.993,
+  "timeline_out": 703.101,
+  "duration": 15.108,
+  "narration": "Six years after Carvey Ehren Maigue won this same global title for the Philippines, with his AuREUS solar film, the title was back. So what does a feeling building actually change? Start with the morning after an earthquake.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_cq8YWWoDVXM.mp4",
+    "in": 91.0,
+    "out": 94.7,
+    "dur": 3.7,
+    "credit_pill": "James Dyson Award",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_cq8YWWoDVXM.mp4",
+    "in": 107.0,
+    "out": 109.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Award",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_cq8YWWoDVXM.mp4",
+    "in": 128.6,
+    "out": 131.3,
+    "dur": 2.7,
+    "credit_pill": "James Dyson Award",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_cq8YWWoDVXM.mp4",
+    "in": 139.9,
+    "out": 142.9,
+    "dur": 3.0,
+    "credit_pill": "James Dyson Award",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_cq8YWWoDVXM.mp4",
+    "in": 144.3,
+    "out": 147.1,
+    "dur": 2.8,
+    "credit_pill": "James Dyson Award",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Maigue interview in lab with lower-third 'Carvey Ehren R. Maigue, Inventor, AuREUS'; AuREUS film being heat-shaped over a cone; Maigue holding the glowing yellow-green AuREUS panel in front of his face; second lab interview; Maigue outdoors holding folded AuREUS film.",
+  "note": "All segments show Maigue and/or the AuREUS solar film as required. Dyson end card (from ~147.9s) and video-call split screens (110.4-125s) avoided. Sum 15.100 vs 15.108 (-0.008)."
+ },
+ {
+  "beat": 46,
+  "segment": 8,
+  "topic": "What changes: the morning after an earthquake",
+  "timeline_in": 703.101,
+  "timeline_out": 720.993,
+  "duration": 17.892,
+  "narration": "Today, it begins with engineers fanning out across a damaged city, building by building, eye by eye \u2014 while thousands of families wait outside homes that might be fine, or might be traps. With Sentinel inside the walls, the first check happens on a screen.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 254.3,
+    "out": 258.3,
+    "dur": 4.0,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 310.4,
+    "out": 314.1,
+    "dur": 3.7,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 337.0,
+    "out": 340.6,
+    "dur": 3.6,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 670.0,
+    "out": 673.0,
+    "dur": 3.0,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_geB_Mjxh_qc.mp4",
+    "in": 675.5,
+    "out": 679.1,
+    "dur": 3.6,
+    "credit_pill": "CBS News",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Rescue crews working a collapsed building at night (254.3-258.3), crews on a collapsed slab by the Petron sign (310.4-314.1) and a wide crew/generator shot on rubble (337-340.6); then residents/patients waiting outside - hospital beds outdoors (670-673) and a residents/medical crowd outside (675.5-679.1)",
+  "note": "Disjoint from beat 11. First picks at 307.5 and 336.5 crossed cuts (crane shot / leaning-wall shot) and were moved to the verified slab and generator shots. Sums 17.9s vs 17.892s."
+ },
+ {
+  "beat": 47,
+  "segment": 8,
+  "topic": "First check happens on a screen",
+  "timeline_in": 720.993,
+  "timeline_out": 732.921,
+  "duration": 11.928,
+  "narration": "The buildings that are silent are probably sound. The buildings that are signalling get the engineers first. It does not replace the inspection. It tells the inspectors where to run.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 66.4,
+    "out": 69.4,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 58.9,
+    "out": 61.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 76.0,
+    "out": 78.5,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 151.5,
+    "out": 154.9,
+    "dur": 3.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: block transmitting from its frame, resistance gauge/graph signal, corridor engineer prioritising inspections, Crack! graph jump - signalling buildings get the engineers first",
+  "note": "The film's true dashboard shot (69.4-70.4, man at monitor) is only ~1s long and cannot form a legal 2s+ segment; transmission/gauge/engineer segments carry the clause instead."
+ },
+ {
+  "beat": 48,
+  "segment": 8,
+  "topic": "It keeps watching: aftershocks, settling, years",
+  "timeline_in": 732.921,
+  "timeline_out": 750.813,
+  "duration": 17.892,
+  "narration": "And it keeps watching afterwards \u2014 through the aftershocks, through the settling, through the slow years of small stresses that age a structure. Ong states the cost of the old way bluntly: late repairs can cost millions, and displace people for weeks, or even months.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_YRGg_CwH7G8.mp4",
+    "in": 40.0,
+    "out": 43.9,
+    "dur": 3.9,
+    "credit_pill": "DW News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_YRGg_CwH7G8.mp4",
+    "in": 72.0,
+    "out": 75.9,
+    "dur": 3.9,
+    "credit_pill": "DW News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_YRGg_CwH7G8.mp4",
+    "in": 84.0,
+    "out": 87.9,
+    "dur": 3.9,
+    "credit_pill": "DW News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_YRGg_CwH7G8.mp4",
+    "in": 92.0,
+    "out": 95.9,
+    "dur": 3.9,
+    "credit_pill": "DW News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_YRGg_CwH7G8.mp4",
+    "in": 136.0,
+    "out": 138.3,
+    "dur": 2.3,
+    "credit_pill": "DW News",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Full-frame only: timestamped quake street CCTV, people fleeing (40-43.9), collapsed gymnasium interior (72-75.9), rubble pile (84-87.9), cracked road (92-95.9), Bureau of Fire rescuers working a collapsed structure (136-138.3). Sheets dw_a/dw_ff1/dw_ff2.",
+  "note": "No split-screen used: the package becomes a split-screen interview from ~168s to the end and all of it was excluded; interview talking heads at 100-136s also avoided in favour of pure B-roll."
+ },
+ {
+  "beat": 49,
+  "segment": 8,
+  "topic": "Late repairs cost millions and displace people",
+  "timeline_in": 750.813,
+  "timeline_out": 763.536,
+  "duration": 12.723,
+  "narration": "Catch the crack when it is a number on a dashboard, and it is a repair. Miss it until it is visible \u2014 and it can become a collapse, or a funeral.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_kzNA7P5WD88.mp4",
+    "in": 421.0,
+    "out": 423.9,
+    "dur": 2.9,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_kzNA7P5WD88.mp4",
+    "in": 1054.0,
+    "out": 1057.9,
+    "dur": 3.9,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_kzNA7P5WD88.mp4",
+    "in": 1080.0,
+    "out": 1083.9,
+    "dur": 3.9,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_kzNA7P5WD88.mp4",
+    "in": 1588.0,
+    "out": 1590.0,
+    "dur": 2.0,
+    "credit_pill": "ABS-CBN News",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Framed portrait of the deceased child on the memorial table (421-423.9); bereaved father Silvestre Ytang Jr., head bandaged, wiping tears with white coffins behind him (1054-1057.9) and weeping into his hands (1080-1083.9); mourning villagers gathered around coffins at the burial (1588-1590).",
+  "note": "B&W documentary; the 'GRIEF TAKES A VILLAGE' title bug is burned into the top-right corner of every frame of this source, including all four segments \u2014 the credit pill will sit over/alongside it. Source audio/subtitles are Tagalog; picture only is used."
+ },
+ {
+  "beat": 50,
+  "segment": 9,
+  "topic": "Honest part: a prototype, not a product",
+  "timeline_in": 763.536,
+  "timeline_out": 780.469,
+  "duration": 16.933,
+  "narration": "Now, the honest part \u2014 because this channel does not do fairy tales, and Sentinel's real story needs no exaggeration. Sentinel is not a product. You cannot buy it today, and no source reports a building-code certification, or a commercial launch.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 106.0,
+    "out": 109.3,
+    "dur": 3.3,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 137.7,
+    "out": 141.3,
+    "dur": 3.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 121.1,
+    "out": 124.0,
+    "dur": 2.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 141.3,
+    "out": 143.8,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 143.8,
+    "out": 146.4,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 154.9,
+    "out": 156.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: destructive testing rig, perfboard module photo, Eureka prototype board photo, white block under load and hammer close-up - sober prototype reality, not a product",
+  "note": "FLAG: 121.1-124.0 and 137.7-141.3 are slow-zoom still photos in the source."
+ },
+ {
+  "beat": 51,
+  "segment": 9,
+  "topic": "Born from a master's thesis; real lab work done",
+  "timeline_in": 780.469,
+  "timeline_out": 789.968,
+  "duration": 9.499,
+  "narration": "It is a working prototype, born from a master's thesis. Here is what has actually been done \u2014 and it is real work.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 143.8,
+    "out": 146.4,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 148.9,
+    "out": 151.5,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 124.0,
+    "out": 126.3,
+    "dur": 2.3,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 154.9,
+    "out": 156.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: real load/hammer testing of the prototype block (7.2s of genuine lab video) plus the Eureka prototype board photo",
+  "note": "FLAG: 124.0-126.3 is a slow-zoom still photo in the source."
+ },
+ {
+  "beat": 52,
+  "segment": 9,
+  "topic": "125+ samples, more than a year of testing",
+  "timeline_in": 789.968,
+  "timeline_out": 806.075,
+  "duration": 16.107,
+  "narration": "Over more than a year of research, Ong mixed, cured and tested more than 125 concrete samples, learning exactly how this material's resistance answers load and cracking, until he could write equations that produce sensor concrete with predictable behaviour.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Full-screen kinetic-text beat under the new style - no footage windows. Treatment = its pin sequence in text-events.md/.json (replaces the old house-style G graphic; see graphics-beats.md rulings).",
+  "segments": []
+ },
+ {
+  "beat": 53,
+  "segment": 9,
+  "topic": "Embedded in a real building: the National Shrine of the Sacred Heart",
+  "timeline_in": 806.075,
+  "timeline_out": 823.008,
+  "duration": 16.933,
+  "narration": "And Sentinel blocks are not only in a laboratory. They have been embedded inside a real building \u2014 the St. Margaret Mary Alacoque building, of the National Shrine of the Sacred Heart \u2014 where they are being monitored in real conditions.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_lyjvF-glU04.mp4",
+    "in": 1792.0,
+    "out": 1795.4,
+    "dur": 3.4,
+    "credit_pill": "National Shrine of the Sacred Heart",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_lyjvF-glU04.mp4",
+    "in": 2282.0,
+    "out": 2285.4,
+    "dur": 3.4,
+    "credit_pill": "National Shrine of the Sacred Heart",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_lyjvF-glU04.mp4",
+    "in": 3836.0,
+    "out": 3839.4,
+    "dur": 3.4,
+    "credit_pill": "National Shrine of the Sacred Heart",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_lyjvF-glU04.mp4",
+    "in": 4559.0,
+    "out": 4562.4,
+    "dur": 3.4,
+    "credit_pill": "National Shrine of the Sacred Heart",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_lyjvF-glU04.mp4",
+    "in": 1808.0,
+    "out": 1811.3,
+    "dur": 3.3,
+    "credit_pill": "National Shrine of the Sacred Heart",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Wide locked-off views of the National Shrine of the Sacred Heart church interior: full nave, twin balconies, altar and reredos with the Sacred Heart image, congregation seated - the real building in real conditions, from four separate Mass moments.",
+  "note": "Chosen ranges are genuine interior footage, NOT the text announcement slides that fill 0-~1440s or the 'Act of Spiritual Communion' graphic card at 4540-4557s (explicitly avoided; seg 4 starts at 4559s after the cut back to the wide interior). The livestream's own burned-in lyric subtitles run along the bottom of these frames - inherent to the source. No exterior shot of the St. Margaret Mary Alacoque building exists in this livestream; interior of the shrine church is the closest honest match. Sum 16.900 vs 16.933 (-0.033)."
+ },
+ {
+  "beat": 54,
+  "segment": 9,
+  "topic": "Not yet proven: readings vs actual damage",
+  "timeline_in": 823.008,
+  "timeline_out": 839.672,
+  "duration": 16.664,
+  "narration": "But here is what has not happened yet. The long-term readings from that building still have to be compared, carefully, against the actual damage engineers find. That validation is the next phase \u2014 not a finished result.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 4.9,
+    "out": 6.9,
+    "dur": 2.0,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 6.9,
+    "out": 8.9,
+    "dur": 2.0,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 9.1,
+    "out": 11.9,
+    "dur": 2.8,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 11.9,
+    "out": 13.9,
+    "dur": 2.0,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 21.0,
+    "out": 23.4,
+    "dur": 2.4,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 44.0,
+    "out": 46.9,
+    "dur": 2.9,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 47.0,
+    "out": 49.6,
+    "dur": 2.6,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Collapsed nurse-station interior (4.9-6.9), office with cracked-through walls (6.9-8.9), officials at caution tape seen from inside the damaged doorway (9.1-11.9), debris-filled hospital ENTRANCE (11.9-13.9), damaged school outbuilding with debris (21-23.4), wall-crack close-up (44-46.9), officials comparing documents beside the taped building (47-49.6).",
+  "note": "The film's pure-damage shots are short (~2s each), so the beat is built from seven segments; the two officials-at-the-damage segments (9.1-11.9, 47-49.6) carry the 'damage engineers find / compared carefully' clause. Boundaries are midpoint estimates from 0.5s sampling (\u00b10.2s); trim on the cut if a flash frame appears."
+ },
+ {
+  "beat": 55,
+  "segment": 9,
+  "topic": "Hand-soldered electronics; retrofit still in development",
+  "timeline_in": 839.672,
+  "timeline_out": 855.885,
+  "duration": 16.213,
+  "narration": "The reader electronics are still hand-soldered; a proper circuit board is still on the workbench. A version that can be fitted onto existing buildings is still in development. And two honest warnings about that ten-peso number.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_fOdpxOWFApU.mp4",
+    "in": 36.4,
+    "out": 39.7,
+    "dur": 3.3,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_fOdpxOWFApU.mp4",
+    "in": 177.9,
+    "out": 181.1,
+    "dur": 3.2,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_fOdpxOWFApU.mp4",
+    "in": 239.5,
+    "out": 242.7,
+    "dur": 3.2,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_fOdpxOWFApU.mp4",
+    "in": 418.9,
+    "out": 422.1,
+    "dur": 3.2,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_fOdpxOWFApU.mp4",
+    "in": 476.0,
+    "out": 479.3,
+    "dur": 3.3,
+    "credit_pill": "PENDING-DECISION",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Gloved hands hand-soldering the red PCB underside at a bench: in every segment the soldering-iron tip is in contact with the board/pads and solder wire is being fed (smoke wisp visible at ~421s).",
+  "note": "Windows refined from the 20s coarse map to iron-contact seconds only; board-flip, component-display (424-427s) and empty-bench seconds excluded. Sum 16.200 vs 16.213 (-0.013)."
+ },
+ {
+  "beat": 56,
+  "segment": 9,
+  "topic": "The \u20b110 warnings: block only; it flags, never certifies",
+  "timeline_in": 855.885,
+  "timeline_out": 874.801,
+  "duration": 18.916,
+  "narration": "First: it is the cost of making the block \u2014 the electronic module that reads it costs extra, and nobody has published that price. Second: Sentinel flags where to look. It does not, by itself, declare any building safe. Engineers still decide.",
+  "type": "footage",
+  "status": "OK-FLAGGED",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 134.2,
+    "out": 137.7,
+    "dur": 3.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 137.7,
+    "out": 141.3,
+    "dur": 3.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": [
+     "STILL-ZOOM (slow zoom over a still photo in the source film - see decision block D1)"
+    ]
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 141.3,
+    "out": 143.8,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 58.9,
+    "out": 61.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 20.0,
+    "out": 22.9,
+    "dur": 2.9,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 151.5,
+    "out": 154.9,
+    "dur": 3.4,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 3,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: reader-module photos (the part that costs extra), the block under test, gauge/interior/graph flagging shots - Sentinel flags where to look, it does not declare safety",
+  "note": "FLAG: 134.2-141.3 are slow-zoom still photos of the module."
+ },
+ {
+  "beat": 57,
+  "segment": 9,
+  "topic": "It points engineers to the right place, early",
+  "timeline_in": 874.801,
+  "timeline_out": 880.656,
+  "duration": 5.855,
+  "narration": "The block only makes sure they are looking in the right place, early.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 28.5,
+    "out": 32.4,
+    "dur": 3.9,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_8VQp7zgjMrM.mp4",
+    "in": 24.0,
+    "out": 26.0,
+    "dur": 2.0,
+    "credit_pill": "RTVMalacanang",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Officials in hard hats inspecting: woman in hard hat pointing out damage and Marcos pointing up at the building (28.5-32.4); officials walking the elevated walkway examining the structure (24-26).",
+  "note": "Disjoint from beat 54's ranges in the same file (54 uses 4.9-23.4 and 44-49.6)."
+ },
+ {
+  "beat": 58,
+  "segment": 10,
+  "topic": "Next steps: validate in the real building; custom PCB; retrofit",
+  "timeline_in": 880.656,
+  "timeline_out": 900.431,
+  "duration": 19.775,
+  "narration": "So what happens next is already written into Ong's plan: validate the technology, over the long term, in that real building; replace the hand-soldered electronics with a custom circuit board; and build the retrofit version that could bring old buildings into the system too.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Graphics beat by the user's 2026-11-05 decision (no honest footage source). Design in graphics-beats.md; pins in text-events.md/.json.",
+  "segments": []
+ },
+ {
+  "beat": 59,
+  "segment": 10,
+  "topic": "The prize funds the work; ambition: every building",
+  "timeline_in": 900.431,
+  "timeline_out": 915.712,
+  "duration": 15.281,
+  "narration": "The 30,000-pound prize goes into exactly that work. His stated ambition is simple to say, and enormous to do: a future where every building is embedded with the Sentinel sensor. Here is our verdict.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_UKcdKCBecXs.mp4",
+    "in": 11.0,
+    "out": 13.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_UKcdKCBecXs.mp4",
+    "in": 16.0,
+    "out": 18.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_UKcdKCBecXs.mp4",
+    "in": 20.0,
+    "out": 22.9,
+    "dur": 2.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_UKcdKCBecXs.mp4",
+    "in": 23.0,
+    "out": 26.9,
+    "dur": 3.9,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   },
+   {
+    "source": "src/yt_UKcdKCBecXs.mp4",
+    "in": 27.0,
+    "out": 29.7,
+    "dur": 2.7,
+    "credit_pill": "James Dyson Foundation",
+    "second_use_of": null,
+    "flags": []
+   }
+  ],
+  "evidence": "Ong's win reaction centred throughout: split call as '2026 Global Sustainability Winner' lands and Ong gasps (11-13.9), full-frame Ong laughing 'What? No way' (16-18.9), full-frame Ong hands-over-face 'No way, that's crazy' (20-22.9), Ong in hard hat on site saying he wants Sentinel in every building (23-26.9), Ong full-frame 'it might actually come true' (27-29.7).",
+  "note": "Everything from ~33s onward is the other (Medical) winner's reaction and was excluded. The Sentinel device product shot at 31-32.9s is only ~2s and was left out in favour of reaction coverage."
+ },
+ {
+  "beat": 60,
+  "segment": 10,
+  "topic": "Verdict: not a robot, not an app \u2014 a block",
+  "timeline_in": 915.712,
+  "timeline_out": 928.296,
+  "duration": 12.584,
+  "narration": "Of the 2,294 inventions entered from 28 countries, the one that took a global title is not a robot. Not an app. Not a machine with a screen.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 141.3,
+    "out": 143.8,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 143.8,
+    "out": 146.4,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 6,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 146.4,
+    "out": 148.9,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 66.4,
+    "out": 69.4,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 56.9,
+    "out": 58.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 4,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: plain white concrete block close-ups under test, block sitting in its frame, cracked cube - the anti-gadget hero: no robot, no app, no screen",
+  "note": "All genuine moving footage."
+ },
+ {
+  "beat": 61,
+  "segment": 10,
+  "topic": "A ten-peso block that learned to speak",
+  "timeline_in": 928.296,
+  "timeline_out": 947.621,
+  "duration": 19.325,
+  "narration": "It is a ten-peso block of concrete that learned to speak, hidden inside a part of the building nobody was ever supposed to notice. Whether it becomes the standard its inventor dreams of now depends on one unglamorous thing: time \u2014 and data.",
+  "type": "footage",
+  "status": "OK",
+  "segments": [
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 31.0,
+    "out": 34.7,
+    "dur": 3.7,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 63.9,
+    "out": 66.4,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 33,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 66.4,
+    "out": 69.4,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 58.9,
+    "out": 61.9,
+    "dur": 3.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 2,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 146.4,
+    "out": 148.9,
+    "dur": 2.5,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 148.9,
+    "out": 151.5,
+    "dur": 2.6,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   },
+   {
+    "source": "src/yt_zxqZPmeSjMU.mp4",
+    "in": 154.9,
+    "out": 156.9,
+    "dur": 2.0,
+    "credit_pill": "Aldrei Ong",
+    "second_use_of": 35,
+    "flags": []
+   }
+  ],
+  "evidence": "Second uses: Sentinel module pulsing, block hidden inside a structural frame transmitting, monitoring gauge/data, block under test ending on the closest close-up - the block speaking over time",
+  "note": "All genuine moving footage (animation plus real test video)."
+ },
+ {
+  "beat": 62,
+  "segment": 10,
+  "topic": "Open loop: months of readings from a shrine building in Manila",
+  "timeline_in": 947.621,
+  "timeline_out": 966.048,
+  "duration": 18.427,
+  "narration": "Months of quiet readings, from a shrine building in Manila, proving that the numbers match the cracks. That proof has a date with reality. And when it arrives \u2014 one way or the other \u2014 this story will have its ending.",
+  "type": "graphics",
+  "status": "GRAPHICS",
+  "note": "Graphics beat by the user's 2026-11-05 decision (no honest footage source). Design in graphics-beats.md; pins in text-events.md/.json.",
+  "segments": []
+ }
+]

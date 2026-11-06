@@ -1,0 +1,9 @@
+# Generated at build/run time — never push these.
+node_modules/
+remotion/node_modules/
+remotion/public/fonts/*.woff2
+rendered/
+work/
+out/
+proof-pin.mov
+.DS_Store
