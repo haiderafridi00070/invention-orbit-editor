@@ -32,7 +32,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 WORK = os.path.join(ROOT, "work")
 FPS = 30
-TOTAL_S = 966.048
+TOTAL_S = 802.56
 
 def load(name):
     with open(os.path.join(DATA, name), encoding="utf-8") as f:
@@ -45,8 +45,8 @@ def main():
     os.makedirs(WORK, exist_ok=True)
 
     beat_by_id = {b["beat"]: b for b in beats}
-    type_by_id = {w["beat"]: w["type"] for w in windows}
-    d1_start = beat_by_id[28]["start"]  # diagram asset covers beats 28-32
+    type_by_id = {b["beat"]: b["type"] for b in beats}  # V3: type lives in beats_retimed.json
+    d1_start = beat_by_id[27]["start"]  # diagram asset covers beat 27 only
 
     missing = []
 
@@ -103,8 +103,8 @@ def main():
             missing.append(path)
         add_overlay(path, w["timeline_in"])
 
-    # Logo bug: looped still, dropped only during beat 49.
-    b49 = beat_by_id[49]
+    # Logo bug: looped still, runs the whole video (no Video 3 source
+    # carries its own top-right bug, so there is no exclusion window).
     bug_path = "rendered/logo-bug.png"
     if not os.path.exists(os.path.join(ROOT, bug_path)):
         missing.append(bug_path)
@@ -113,8 +113,7 @@ def main():
     step += 1
     chains.append(f"[{bug_idx}:v]fps=30[bug]")
     chains.append(
-        f"[{prev}][bug]overlay=x=W-w-36:y=36:format=auto:eof_action=pass"
-        f":enable='not(between(t,{b49['start']:.3f},{b49['end']:.3f}))'[vout]"
+        f"[{prev}][bug]overlay=x=W-w-36:y=36:format=auto:eof_action=pass[vout]"
     )
 
     # Audio: narration + looped music bed.

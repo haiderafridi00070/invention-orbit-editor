@@ -39,7 +39,7 @@ const beats = readJson("beats_retimed.json");
 const windows = readJson("windows.json");
 
 const pad = (n) => String(n).padStart(2, "0");
-const GFX_BEATS = [8, 9, 10, 13, 21, 34, 36, 39, 41, 43, 52, 58, 62];
+const GFX_BEATS = [1, 7, 13, 22, 32, 35, 36, 38, 39, 41, 43, 46, 48, 50];
 const ALPHA_FLAGS = [
   "--codec=prores",
   "--prores-profile=4444",

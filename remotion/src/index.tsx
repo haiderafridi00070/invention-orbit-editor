@@ -45,7 +45,7 @@ const windows = windowsData as unknown as WindowRow[];
 const beatById = new Map(beats.map((b) => [b.beat, b]));
 const pad = (n: number) => String(n).padStart(2, "0");
 
-const GFX_BEATS = [8, 9, 10, 13, 21, 34, 36, 39, 41, 43, 52, 58, 62];
+const GFX_BEATS = [1, 7, 13, 22, 32, 35, 36, 38, 39, 41, 43, 46, 48, 50];
 
 const RemotionRoot: React.FC = () => {
   return (
