@@ -24,6 +24,30 @@
   "note": ""
  },
  {
+  "id": "TE-18",
+  "beat": 7,
+  "template": "T2",
+  "text": "NO X-RAYS",
+  "subtext": "MAGNET + RADIO WAVES",
+  "background": "dark",
+  "timeline_in": 78.12,
+  "timeline_out": 89.0,
+  "anchor": "Fix pin (render-1 verification): pin-led beat had no pin in the data package.",
+  "note": "FIX 2026-11-13: added after render 1 frame-check found the beat black."
+ },
+ {
+  "id": "TE-19",
+  "beat": 7,
+  "template": "T2",
+  "text": "SEES SOFT TISSUE",
+  "subtext": "BRAIN · SPINE · ORGANS · TUMOURS",
+  "background": "dark",
+  "timeline_in": 89.0,
+  "timeline_out": 99.84,
+  "anchor": "Fix pin (render-1 verification).",
+  "note": "FIX 2026-11-13: second half of E07."
+ },
+ {
   "id": "TE-03",
   "beat": 10,
   "timeline_in": 128.12,
@@ -34,6 +58,30 @@
   "anchor": "Nigeria scanner scarcity beat.",
   "background": "footage",
   "note": ""
+ },
+ {
+  "id": "TE-20",
+  "beat": 13,
+  "template": "T3",
+  "text": "THE STRANGE PART",
+  "subtext": "",
+  "background": "dark",
+  "timeline_in": 166.96,
+  "timeline_out": 173.41,
+  "anchor": "Fix pin (render-1 verification).",
+  "note": "FIX 2026-11-13: chapter card from the narration's own line."
+ },
+ {
+  "id": "TE-21",
+  "beat": 22,
+  "template": "T3",
+  "text": "NO ONE SHOULD SUFFER OR DIE",
+  "subtext": "BECAUSE OF A DELAYED DIAGNOSIS",
+  "background": "dark",
+  "timeline_in": 292.06,
+  "timeline_out": 304.2,
+  "anchor": "Fix pin (render-1 verification): Akoda's stated vision, quote beat.",
+  "note": "FIX 2026-11-13: quote card."
  },
  {
   "id": "TE-04",
@@ -132,6 +180,18 @@
   "note": "PIN-LED beat: pin carries it, no footage window."
  },
  {
+  "id": "TE-22",
+  "beat": 38,
+  "template": "T1",
+  "text": "1 SCANNER",
+  "subtext": "PER 3 MILLION PEOPLE",
+  "background": "dark",
+  "timeline_in": 571.61,
+  "timeline_out": 580.2,
+  "anchor": "Fix pin (render-1 verification).",
+  "note": "FIX 2026-11-13: number-led pin for the map beat's stat."
+ },
+ {
   "id": "TE-12",
   "beat": 39,
   "timeline_in": 580.2,
@@ -166,6 +226,18 @@
   "anchor": "'A similarity score of ninety-nine point seven percent is encouraging, but it is the developer's reported result, not a regulator's verdict.'",
   "background": "dark",
   "note": "DERIVED (not in the 15-pin list): the build sheet names only a 'small % graphic' for E41; text follows E41's own narration."
+ },
+ {
+  "id": "TE-23",
+  "beat": 43,
+  "template": "T2",
+  "text": "THAT PROOF IS STILL AHEAD",
+  "subtext": "",
+  "background": "dark",
+  "timeline_in": 641.79,
+  "timeline_out": 645.16,
+  "anchor": "Fix pin (render-1 verification).",
+  "note": "FIX 2026-11-13: single-line hold, per edit spec."
  },
  {
   "id": "TE-15",
