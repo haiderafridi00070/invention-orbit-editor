@@ -32,7 +32,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 WORK = os.path.join(ROOT, "work")
 FPS = 30
-TOTAL_S = 802.56
+TOTAL_S = 824.40
 
 def load(name):
     with open(os.path.join(DATA, name), encoding="utf-8") as f:
@@ -46,7 +46,7 @@ def main():
 
     beat_by_id = {b["beat"]: b for b in beats}
     type_by_id = {b["beat"]: b["type"] for b in beats}  # V3: type lives in beats_retimed.json
-    d1_start = beat_by_id[27]["start"]  # diagram asset covers beat 27 only
+    d1_start = beat_by_id[24]["start"]  # diagram asset covers beat 24 only
 
     missing = []
 

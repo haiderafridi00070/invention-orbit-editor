@@ -1,0 +1,67 @@
+name: Video 4 — Render and Assemble
+
+# Manual trigger only: press "Run workflow" on the Actions tab.
+# Renders the full kinetic text layer with Remotion, then assembles
+# the finished Video 4 (Sentinel) with FFmpeg and uploads it as the
+# artifact "video4-final". Nothing renders on anyone's own computer.
+on:
+  workflow_dispatch:
+
+jobs:
+  video3:
+    name: Render text layer and assemble Video 4
+    runs-on: ubuntu-latest
+    # 119 renders + a 16-minute 1080p assembly take a while; the render
+    # script skips finished items, so a re-run after a timeout resumes.
+    timeout-minutes: 300
+
+    steps:
+      - name: 1. Check out the repository
+        uses: actions/checkout@v4
+
+      - name: 2. Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 3. Install system libraries for the headless browser (best effort)
+        continue-on-error: true
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 libnspr4 libdbus-1-3 \
+            libatk1.0-0 libatk-bridge2.0-0 libatspi2.0-0 \
+            libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
+            libgbm1 libxkbcommon0 libpango-1.0-0 libcairo2
+
+      - name: 4. Install FFmpeg (not preinstalled on this runner image)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version
+
+      - name: 5. Install the Remotion project packages
+        working-directory: remotion
+        run: npm install
+
+      - name: 6. Download the headless browser Remotion renders with
+        working-directory: remotion
+        run: npx remotion browser ensure
+
+      - name: 7. Prepare the self-hosted fonts
+        working-directory: remotion
+        run: node scripts/prepare-fonts.mjs
+
+      - name: 8. Render the text layer (28 pins, 13 graphics beats, 37 pill tracks, logo bug)
+        working-directory: remotion
+        run: node scripts/render-all.mjs
+
+      - name: 9. Assemble the final video with FFmpeg
+        run: bash assemble.sh
+
+      - name: 10. Upload the finished video as an artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: video4-final
+          path: out/final.mp4
+          if-no-files-found: error

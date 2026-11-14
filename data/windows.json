@@ -1,1536 +1,261 @@
 [
  {
+  "beat": 1,
+  "type": "footage",
+  "timeline_in": 0.0,
+  "timeline_out": 20.94,
+  "credit": "The Highlight Factory"
+ },
+ {
   "beat": 2,
   "type": "footage",
-  "timeline_in": 7.51,
-  "duration": 15.39,
-  "segments": [
-   {
-    "in": 0.0,
-    "out": 3.39,
-    "dur": 3.39,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 30.0,
-    "out": 33.0,
-    "dur": 3.0,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 33.0,
-    "out": 35.5,
-    "dur": 2.5,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 37.0,
-    "out": 39.5,
-    "dur": 2.5,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 234.0,
-    "out": 236.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 242.0,
-    "out": 244.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 20.94,
+  "timeline_out": 35.31,
+  "credit": "The Sports Institute at UW Medicine"
  },
  {
   "beat": 3,
   "type": "footage",
-  "timeline_in": 22.9,
-  "duration": 12.02,
-  "segments": [
-   {
-    "in": 274.0,
-    "out": 278.0,
-    "dur": 4.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 278.0,
-    "out": 281.0,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 282.0,
-    "out": 284.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 285.0,
-    "out": 288.02,
-    "dur": 3.02,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 35.31,
+  "timeline_out": 49.68,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 4,
   "type": "footage",
-  "timeline_in": 34.92,
-  "duration": 15.32,
-  "segments": [
-   {
-    "in": 196.0,
-    "out": 199.32,
-    "dur": 3.32,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 200.0,
-    "out": 203.0,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 206.0,
-    "out": 209.0,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 210.0,
-    "out": 212.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 215.0,
-    "out": 217.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 217.0,
-    "out": 219.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
- },
- {
-  "beat": 5,
-  "type": "footage",
-  "timeline_in": 50.24,
-  "duration": 16.88,
-  "segments": [
-   {
-    "in": 64.0,
-    "out": 66.0,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 70.0,
-    "out": 72.0,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 78.0,
-    "out": 82.0,
-    "dur": 4.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 87.0,
-    "out": 89.0,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 99.0,
-    "out": 103.0,
-    "dur": 4.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 121.0,
-    "out": 123.88,
-    "dur": 2.88,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 49.68,
+  "timeline_out": 76.368,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 6,
   "type": "footage",
-  "timeline_in": 67.12,
-  "duration": 11.0,
-  "segments": [
-   {
-    "in": 25.0,
-    "out": 28.0,
-    "dur": 3.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 28.0,
-    "out": 31.0,
-    "dur": 3.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 31.0,
-    "out": 33.0,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 42.0,
-    "out": 45.0,
-    "dur": 3.0,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 91.654,
+  "timeline_out": 112.784,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 8,
   "type": "footage",
-  "timeline_in": 99.84,
-  "duration": 19.26,
-  "segments": [
-   {
-    "in": 25.0,
-    "out": 29.0,
-    "dur": 4.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 29.0,
-    "out": 31.0,
-    "dur": 2.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 31.0,
-    "out": 33.0,
-    "dur": 2.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 33.5,
-    "out": 37.0,
-    "dur": 3.5,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 37.0,
-    "out": 39.76,
-    "dur": 2.76,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 51.5,
-    "out": 54.5,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 0.0,
-    "out": 2.0,
-    "dur": 2.0,
-    "credit_pill": "Singapore General Hospital"
-   }
-  ]
+  "timeline_in": 121.776,
+  "timeline_out": 138.428,
+  "credit": "The Highlight Factory"
  },
  {
   "beat": 9,
   "type": "footage",
-  "timeline_in": 119.1,
-  "duration": 9.02,
-  "segments": [
-   {
-    "in": 48.84,
-    "out": 52.84,
-    "dur": 4.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 61.4,
-    "out": 63.6,
-    "dur": 2.2,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 135.85,
-    "out": 138.67,
-    "dur": 2.82,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 138.428,
+  "timeline_out": 156.744,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 10,
   "type": "footage",
-  "timeline_in": 128.12,
-  "duration": 15.45,
-  "segments": [
-   {
-    "in": 1.5,
-    "out": 5.5,
-    "dur": 4.0,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 10.0,
-    "out": 13.0,
-    "dur": 3.0,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 16.0,
-    "out": 18.45,
-    "dur": 2.45,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 22.0,
-    "out": 25.0,
-    "dur": 3.0,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 33.0,
-    "out": 36.0,
-    "dur": 3.0,
-    "credit_pill": "Ludo Lin"
-   }
-  ]
+  "timeline_in": 156.744,
+  "timeline_out": 167.568,
+  "credit": "The Sports Institute at UW Medicine"
  },
  {
   "beat": 11,
   "type": "footage",
-  "timeline_in": 143.57,
-  "duration": 14.2,
-  "segments": [
-   {
-    "in": 35.4,
-    "out": 39.2,
-    "dur": 3.8,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 41.45,
-    "out": 44.5,
-    "dur": 3.05,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 47.9,
-    "out": 50.5,
-    "dur": 2.6,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 50.5,
-    "out": 52.55,
-    "dur": 2.05,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 52.6,
-    "out": 55.3,
-    "dur": 2.7,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 167.568,
+  "timeline_out": 182.025,
+  "credit": "The Sports Institute at UW Medicine"
  },
  {
   "beat": 12,
   "type": "footage",
-  "timeline_in": 157.77,
-  "duration": 9.19,
-  "segments": [
-   {
-    "in": 35.0,
-    "out": 38.0,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 0.0,
-    "out": 3.0,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 46.0,
-    "out": 49.19,
-    "dur": 3.19,
-    "credit_pill": "NTA"
-   }
-  ]
+  "timeline_in": 182.025,
+  "timeline_out": 196.934,
+  "credit": "The Sports Institute at UW Medicine"
  },
  {
   "beat": 14,
   "type": "footage",
-  "timeline_in": 173.41,
-  "duration": 10.32,
-  "segments": [
-   {
-    "in": 45.2,
-    "out": 48.62,
-    "dur": 3.42,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 46.5,
-    "out": 49.0,
-    "dur": 2.5,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 49.0,
-    "out": 51.27,
-    "dur": 2.27,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 69.57,
-    "out": 71.7,
-    "dur": 2.13,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 216.36,
+  "timeline_out": 232.791,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 15,
   "type": "footage",
-  "timeline_in": 183.73,
-  "duration": 16.33,
-  "segments": [
-   {
-    "in": 12.5,
-    "out": 15.63,
-    "dur": 3.13,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 166.9,
-    "out": 169.9,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 169.9,
-    "out": 172.4,
-    "dur": 2.5,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 176.0,
-    "out": 178.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 244.0,
-    "out": 247.59,
-    "dur": 3.59,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 247.59,
-    "out": 249.7,
-    "dur": 2.11,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
- },
- {
-  "beat": 16,
-  "type": "footage",
-  "timeline_in": 200.06,
-  "duration": 16.34,
-  "segments": [
-   {
-    "in": 0.0,
-    "out": 3.0,
-    "dur": 3.0,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 110.0,
-    "out": 113.2,
-    "dur": 3.2,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 0.0,
-    "out": 3.1,
-    "dur": 3.1,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 0.0,
-    "out": 3.04,
-    "dur": 3.04,
-    "credit_pill": "Singapore General Hospital"
-   },
-   {
-    "in": 136.5,
-    "out": 140.5,
-    "dur": 4.0,
-    "credit_pill": "Singapore General Hospital"
-   }
-  ]
+  "timeline_in": 232.791,
+  "timeline_out": 252.039,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 17,
   "type": "footage",
-  "timeline_in": 216.4,
-  "duration": 15.99,
-  "segments": [
-   {
-    "in": 52.84,
-    "out": 54.84,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 65.9,
-    "out": 69.57,
-    "dur": 3.67,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 89.6,
-    "out": 91.6,
-    "dur": 2.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 20.95,
-    "out": 24.94,
-    "dur": 3.99,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 99.0,
-    "out": 101.33,
-    "dur": 2.33,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 101.33,
-    "out": 103.33,
-    "dur": 2.0,
-    "credit_pill": "mushin111"
-   }
-  ]
+  "timeline_in": 266.592,
+  "timeline_out": 282.816,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 18,
   "type": "footage",
-  "timeline_in": 232.39,
-  "duration": 16.82,
-  "segments": [
-   {
-    "in": 138.67,
-    "out": 141.5,
-    "dur": 2.83,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 149.8,
-    "out": 152.23,
-    "dur": 2.43,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 82.78,
-    "out": 85.52,
-    "dur": 2.74,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 85.52,
-    "out": 89.52,
-    "dur": 4.0,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 147.65,
-    "out": 149.8,
-    "dur": 2.15,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 156.45,
-    "out": 159.12,
-    "dur": 2.67,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 282.816,
+  "timeline_out": 297.649,
+  "credit": "Harvard College"
  },
  {
   "beat": 19,
   "type": "footage",
-  "timeline_in": 249.21,
-  "duration": 12.71,
-  "segments": [
-   {
-    "in": 146.5,
-    "out": 150.0,
-    "dur": 3.5,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 151.5,
-    "out": 154.01,
-    "dur": 2.51,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 160.9,
-    "out": 164.6,
-    "dur": 3.7,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 172.95,
-    "out": 175.95,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 297.649,
+  "timeline_out": 315.264,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 20,
   "type": "footage",
-  "timeline_in": 261.92,
-  "duration": 22.49,
-  "segments": [
-   {
-    "in": 31.0,
-    "out": 33.0,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 124.5,
-    "out": 127.5,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 127.9,
-    "out": 130.9,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 130.9,
-    "out": 133.9,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 133.9,
-    "out": 137.1,
-    "dur": 3.2,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 137.1,
-    "out": 140.0,
-    "dur": 2.9,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 140.0,
-    "out": 142.9,
-    "dur": 2.9,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 142.9,
-    "out": 145.39,
-    "dur": 2.49,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 315.264,
+  "timeline_out": 329.831,
+  "credit": "The Sports Institute at UW Medicine"
  },
  {
   "beat": 21,
   "type": "footage",
-  "timeline_in": 284.41,
-  "duration": 7.65,
-  "segments": [
-   {
-    "in": 55.9,
-    "out": 58.9,
-    "dur": 3.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 60.1,
-    "out": 62.65,
-    "dur": 2.55,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 264.9,
-    "out": 267.0,
-    "dur": 2.1,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 329.831,
+  "timeline_out": 344.84,
+  "credit": "Boston 25 News"
+ },
+ {
+  "beat": 22,
+  "type": "footage",
+  "timeline_in": 344.84,
+  "timeline_out": 364.704,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 23,
   "type": "footage",
-  "timeline_in": 304.2,
-  "duration": 26.93,
-  "segments": [
-   {
-    "in": 84.0,
-    "out": 88.0,
-    "dur": 4.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 88.0,
-    "out": 90.5,
-    "dur": 2.5,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 102.0,
-    "out": 104.5,
-    "dur": 2.5,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 104.5,
-    "out": 108.0,
-    "dur": 3.5,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 112.0,
-    "out": 115.0,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 165.0,
-    "out": 168.0,
-    "dur": 3.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 168.0,
-    "out": 171.5,
-    "dur": 3.5,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 40.0,
-    "out": 42.0,
-    "dur": 2.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 128.0,
-    "out": 130.93,
-    "dur": 2.93,
-    "credit_pill": "NTA"
-   }
-  ]
- },
- {
-  "beat": 24,
-  "type": "footage",
-  "timeline_in": 331.13,
-  "duration": 19.18,
-  "segments": [
-   {
-    "in": 37.0,
-    "out": 40.2,
-    "dur": 3.2,
-    "credit_pill": "Alessia April"
-   },
-   {
-    "in": 50.0,
-    "out": 54.0,
-    "dur": 4.0,
-    "credit_pill": "Alessia April"
-   },
-   {
-    "in": 89.0,
-    "out": 91.7,
-    "dur": 2.7,
-    "credit_pill": "Alessia April"
-   },
-   {
-    "in": 141.5,
-    "out": 143.6,
-    "dur": 2.1,
-    "credit_pill": "Alessia April"
-   },
-   {
-    "in": 146.0,
-    "out": 149.18,
-    "dur": 3.18,
-    "credit_pill": "Alessia April"
-   },
-   {
-    "in": 174.0,
-    "out": 178.0,
-    "dur": 4.0,
-    "credit_pill": "Alessia April"
-   }
-  ]
+  "timeline_in": 364.704,
+  "timeline_out": 377.939,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 25,
   "type": "footage",
-  "timeline_in": 350.31,
-  "duration": 13.69,
-  "segments": [
-   {
-    "in": 115.0,
-    "out": 117.0,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 120.0,
-    "out": 122.69,
-    "dur": 2.69,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 174.0,
-    "out": 176.5,
-    "dur": 2.5,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 20.0,
-    "out": 22.5,
-    "dur": 2.5,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 99.0,
-    "out": 101.0,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 42.5,
-    "out": 44.5,
-    "dur": 2.0,
-    "credit_pill": "TVC News"
-   }
-  ]
+  "timeline_in": 396.321,
+  "timeline_out": 414.336,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 26,
   "type": "footage",
-  "timeline_in": 364.0,
-  "duration": 10.85,
-  "segments": [
-   {
-    "in": 90.5,
-    "out": 94.0,
-    "dur": 3.5,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 80.0,
-    "out": 83.5,
-    "dur": 3.5,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 108.0,
-    "out": 111.85,
-    "dur": 3.85,
-    "credit_pill": "NTA"
-   }
-  ]
+  "timeline_in": 414.336,
+  "timeline_out": 436.866,
+  "credit": "Boston 25 News"
  },
  {
-  "beat": 28,
+  "beat": 27,
   "type": "footage",
-  "timeline_in": 391.13,
-  "duration": 20.87,
-  "segments": [
-   {
-    "in": 78.0,
-    "out": 82.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 82.0,
-    "out": 86.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 86.0,
-    "out": 90.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 90.0,
-    "out": 94.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 94.0,
-    "out": 96.87,
-    "dur": 2.87,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 96.87,
-    "out": 98.87,
-    "dur": 2.0,
-    "credit_pill": "mushin111"
-   }
-  ]
+  "timeline_in": 436.866,
+  "timeline_out": 451.886,
+  "credit": "Boston 25 News"
  },
  {
-  "beat": 29,
+  "beat": 32,
   "type": "footage",
-  "timeline_in": 412.0,
-  "duration": 8.76,
-  "segments": [
-   {
-    "in": 34.5,
-    "out": 38.0,
-    "dur": 3.5,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 38.0,
-    "out": 41.06,
-    "dur": 3.06,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 59.0,
-    "out": 61.2,
-    "dur": 2.2,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
- },
- {
-  "beat": 30,
-  "type": "footage",
-  "timeline_in": 420.76,
-  "duration": 18.57,
-  "segments": [
-   {
-    "in": 27.0,
-    "out": 31.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 31.0,
-    "out": 35.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 35.0,
-    "out": 39.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 39.0,
-    "out": 43.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 43.0,
-    "out": 45.57,
-    "dur": 2.57,
-    "credit_pill": "mushin111"
-   }
-  ]
- },
- {
-  "beat": 31,
-  "type": "footage",
-  "timeline_in": 439.33,
-  "duration": 16.8,
-  "segments": [
-   {
-    "in": 20.93,
-    "out": 23.6,
-    "dur": 2.67,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 192.75,
-    "out": 195.98,
-    "dur": 3.23,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 219.6,
-    "out": 221.65,
-    "dur": 2.05,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 221.65,
-    "out": 223.7,
-    "dur": 2.05,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 223.7,
-    "out": 226.15,
-    "dur": 2.45,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 236.6,
-    "out": 238.7,
-    "dur": 2.1,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 238.7,
-    "out": 240.95,
-    "dur": 2.25,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 510.12,
+  "timeline_out": 533.981,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 33,
   "type": "footage",
-  "timeline_in": 480.44,
-  "duration": 16.27,
-  "segments": [
-   {
-    "in": 117.5,
-    "out": 119.5,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 124.0,
-    "out": 126.0,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 140.0,
-    "out": 144.0,
-    "dur": 4.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 158.0,
-    "out": 161.27,
-    "dur": 3.27,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 146.0,
-    "out": 149.0,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 150.0,
-    "out": 152.0,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   }
-  ]
+  "timeline_in": 533.981,
+  "timeline_out": 556.224,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 34,
   "type": "footage",
-  "timeline_in": 496.71,
-  "duration": 23.77,
-  "segments": [
-   {
-    "in": 187.5,
-    "out": 190.0,
-    "dur": 2.5,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 190.0,
-    "out": 192.4,
-    "dur": 2.4,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 45.0,
-    "out": 48.37,
-    "dur": 3.37,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 57.0,
-    "out": 61.0,
-    "dur": 4.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 27.0,
-    "out": 29.5,
-    "dur": 2.5,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 37.5,
-    "out": 39.5,
-    "dur": 2.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 96.0,
-    "out": 98.0,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 184.5,
-    "out": 187.0,
-    "dur": 2.5,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 143.5,
-    "out": 146.0,
-    "dur": 2.5,
-    "credit_pill": "TVC News"
-   }
-  ]
+  "timeline_in": 556.224,
+  "timeline_out": 564.312,
+  "credit": "James Dyson Foundation"
  },
  {
-  "beat": 37,
+  "beat": 35,
   "type": "footage",
-  "timeline_in": 550.56,
-  "duration": 21.05,
-  "segments": [
-   {
-    "in": 18.4,
-    "out": 20.93,
-    "dur": 2.53,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 24.85,
-    "out": 26.85,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 26.85,
-    "out": 28.85,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 33.0,
-    "out": 35.4,
-    "dur": 2.4,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 44.6,
-    "out": 47.9,
-    "dur": 3.3,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 88.45,
-    "out": 92.45,
-    "dur": 4.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 15.0,
-    "out": 17.41,
-    "dur": 2.41,
-    "credit_pill": "Travel Filming"
-   },
-   {
-    "in": 40.0,
-    "out": 42.41,
-    "dur": 2.41,
-    "credit_pill": "Travel Filming"
-   }
-  ]
+  "timeline_in": 564.312,
+  "timeline_out": 579.241,
+  "credit": "TNN Tech Reports"
+ },
+ {
+  "beat": 36,
+  "type": "footage",
+  "timeline_in": 579.241,
+  "timeline_out": 596.729,
+  "credit": "Boston 25 News"
+ },
+ {
+  "beat": 38,
+  "type": "footage",
+  "timeline_in": 607.392,
+  "timeline_out": 636.808,
+  "credit": "Boston 25 News"
+ },
+ {
+  "beat": 39,
+  "type": "footage",
+  "timeline_in": 636.808,
+  "timeline_out": 649.98,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 40,
   "type": "footage",
-  "timeline_in": 592.23,
-  "duration": 14.44,
-  "segments": [
-   {
-    "in": 152.0,
-    "out": 156.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 156.0,
-    "out": 160.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 160.0,
-    "out": 164.0,
-    "dur": 4.0,
-    "credit_pill": "mushin111"
-   },
-   {
-    "in": 164.0,
-    "out": 166.44,
-    "dur": 2.44,
-    "credit_pill": "mushin111"
-   }
-  ]
+  "timeline_in": 649.98,
+  "timeline_out": 666.664,
+  "credit": "James Dyson Foundation"
  },
  {
   "beat": 42,
   "type": "footage",
-  "timeline_in": 624.47,
-  "duration": 17.32,
-  "segments": [
-   {
-    "in": 5.7,
-    "out": 9.5,
-    "dur": 3.8,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 9.8,
-    "out": 12.55,
-    "dur": 2.75,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 12.62,
-    "out": 14.97,
-    "dur": 2.35,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 14.97,
-    "out": 17.8,
-    "dur": 2.83,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 17.8,
-    "out": 20.7,
-    "dur": 2.9,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 0.0,
-    "out": 2.69,
-    "dur": 2.69,
-    "credit_pill": "Singapore General Hospital"
-   }
-  ]
+  "timeline_in": 677.64,
+  "timeline_out": 692.738,
+  "credit": "Boston 25 News"
+ },
+ {
+  "beat": 43,
+  "type": "footage",
+  "timeline_in": 692.738,
+  "timeline_out": 706.997,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 44,
   "type": "footage",
-  "timeline_in": 645.16,
-  "duration": 18.48,
-  "segments": [
-   {
-    "in": 62.9,
-    "out": 65.6,
-    "dur": 2.7,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 28.85,
-    "out": 30.95,
-    "dur": 2.1,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 154.3,
-    "out": 156.3,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 156.3,
-    "out": 158.9,
-    "dur": 2.6,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 158.9,
-    "out": 160.9,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 164.6,
-    "out": 166.6,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 178.85,
-    "out": 181.2,
-    "dur": 2.35,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 259.17,
-    "out": 261.9,
-    "dur": 2.73,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 706.997,
+  "timeline_out": 720.836,
+  "credit": "James Dyson Foundation"
  },
  {
-  "beat": 45,
+  "beat": 46,
   "type": "footage",
-  "timeline_in": 663.64,
-  "duration": 13.26,
-  "segments": [
-   {
-    "in": 72.24,
-    "out": 75.5,
-    "dur": 3.26,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 75.5,
-    "out": 78.1,
-    "dur": 2.6,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 54.85,
-    "out": 58.58,
-    "dur": 3.73,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 78.86,
-    "out": 82.53,
-    "dur": 3.67,
-    "credit_pill": "Children's Health Queensland"
-   }
-  ]
+  "timeline_in": 726.288,
+  "timeline_out": 750.662,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 47,
   "type": "footage",
-  "timeline_in": 690.56,
-  "duration": 16.51,
-  "segments": [
-   {
-    "in": 0.0,
-    "out": 2.51,
-    "dur": 2.51,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 156.0,
-    "out": 159.0,
-    "dur": 3.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 159.0,
-    "out": 162.0,
-    "dur": 3.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 76.0,
-    "out": 79.0,
-    "dur": 3.0,
-    "credit_pill": "NTA"
-   },
-   {
-    "in": 180.0,
-    "out": 183.0,
-    "dur": 3.0,
-    "credit_pill": "TVC News"
-   },
-   {
-    "in": 40.5,
-    "out": 42.5,
-    "dur": 2.0,
-    "credit_pill": "TVC News"
-   }
-  ]
+  "timeline_in": 750.662,
+  "timeline_out": 766.766,
+  "credit": "Boston 25 News"
  },
  {
   "beat": 49,
   "type": "footage",
-  "timeline_in": 724.42,
-  "duration": 12.7,
-  "segments": [
-   {
-    "in": 139.5,
-    "out": 143.5,
-    "dur": 4.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 143.5,
-    "out": 147.5,
-    "dur": 4.0,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 147.5,
-    "out": 150.2,
-    "dur": 2.7,
-    "credit_pill": "Arise News"
-   },
-   {
-    "in": 150.2,
-    "out": 152.2,
-    "dur": 2.0,
-    "credit_pill": "Arise News"
-   }
-  ]
+  "timeline_in": 774.6,
+  "timeline_out": 802.713,
+  "credit": "The Highlight Factory"
  },
  {
-  "beat": 51,
+  "beat": 50,
   "type": "footage",
-  "timeline_in": 761.23,
-  "duration": 14.64,
-  "segments": [
-   {
-    "in": 32.2,
-    "out": 35.85,
-    "dur": 3.65,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 35.9,
-    "out": 39.18,
-    "dur": 3.28,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 128.0,
-    "out": 131.01,
-    "dur": 3.01,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 180.2,
-    "out": 182.9,
-    "dur": 2.7,
-    "credit_pill": "Children's Health Queensland"
-   },
-   {
-    "in": 49.19,
-    "out": 51.19,
-    "dur": 2.0,
-    "credit_pill": "NTA"
-   }
-  ]
- },
- {
-  "beat": 52,
-  "type": "footage",
-  "timeline_in": 775.87,
-  "duration": 16.79,
-  "segments": [
-   {
-    "in": 52.0,
-    "out": 56.0,
-    "dur": 4.0,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 56.0,
-    "out": 60.0,
-    "dur": 4.0,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 61.0,
-    "out": 64.5,
-    "dur": 3.5,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 67.5,
-    "out": 70.0,
-    "dur": 2.5,
-    "credit_pill": "Ludo Lin"
-   },
-   {
-    "in": 70.5,
-    "out": 73.29,
-    "dur": 2.79,
-    "credit_pill": "Ludo Lin"
-   }
-  ]
- },
- {
-  "beat": 53,
-  "type": "footage",
-  "timeline_in": 792.66,
-  "duration": 9.9,
-  "segments": [
-   {
-    "in": 250.6,
-    "out": 252.6,
-    "dur": 2.0,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 253.6,
-    "out": 256.4,
-    "dur": 2.8,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 256.4,
-    "out": 258.9,
-    "dur": 2.5,
-    "credit_pill": "The Walton Centre"
-   },
-   {
-    "in": 261.9,
-    "out": 264.5,
-    "dur": 2.6,
-    "credit_pill": "The Walton Centre"
-   }
-  ]
+  "timeline_in": 802.713,
+  "timeline_out": 821.589,
+  "credit": "James Dyson Foundation"
  }
 ]
