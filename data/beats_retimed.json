@@ -9,7 +9,9 @@
   "end": 20.94,
   "dur": 20.94,
   "type": "footage",
-  "visual_subject": "Football game action; the moment after a hard hit"
+  "visual_subject": "Football game action; the moment after a hard hit",
+  "start_s": 0.0,
+  "est_dur_s": 20.94
  },
  {
   "beat": 2,
@@ -21,7 +23,9 @@
   "end": 35.31,
   "dur": 14.37,
   "type": "footage",
-  "visual_subject": "Sideline guesswork: bench assessment + injured player attended"
+  "visual_subject": "Sideline guesswork: bench assessment + injured player attended",
+  "start_s": 20.94,
+  "est_dur_s": 14.37
  },
  {
   "beat": 3,
@@ -33,7 +37,9 @@
   "end": 49.68,
   "dur": 14.37,
   "type": "footage",
-  "visual_subject": "Headset fitted on athlete outdoors (winners film)"
+  "visual_subject": "Headset fitted on athlete outdoors (winners film)",
+  "start_s": 35.31,
+  "est_dur_s": 14.37
  },
  {
   "beat": 4,
@@ -45,7 +51,9 @@
   "end": 76.368,
   "dur": 26.688,
   "type": "footage",
-  "visual_subject": "'Global Medical Winner \u2014 Rumble Rims' card + device on table"
+  "visual_subject": "'Global Medical Winner \u2014 Rumble Rims' card + device on table",
+  "start_s": 49.68,
+  "est_dur_s": 26.688
  },
  {
   "beat": 5,
@@ -57,7 +65,9 @@
   "end": 91.654,
   "dur": 15.286,
   "type": "graphics",
-  "visual_subject": "Numbers beat: scale of US sports concussions"
+  "visual_subject": "Numbers beat: scale of US sports concussions",
+  "start_s": 76.368,
+  "est_dur_s": 15.286
  },
  {
   "beat": 6,
@@ -69,7 +79,9 @@
   "end": 112.784,
   "dur": 21.13,
   "type": "footage",
-  "visual_subject": "Youth football fields and Friday-night games"
+  "visual_subject": "Youth football fields and Friday-night games",
+  "start_s": 91.654,
+  "est_dur_s": 21.13
  },
  {
   "beat": 7,
@@ -81,7 +93,9 @@
   "end": 121.776,
   "dur": 8.992,
   "type": "graphics",
-  "visual_subject": "2.5 million teenagers figure"
+  "visual_subject": "2.5 million teenagers figure",
+  "start_s": 112.784,
+  "est_dur_s": 8.992
  },
  {
   "beat": 8,
@@ -93,7 +107,9 @@
   "end": 138.428,
   "dur": 16.652,
   "type": "footage",
-  "visual_subject": "Player stays in the game after a hit"
+  "visual_subject": "Player stays in the game after a hit",
+  "start_s": 121.776,
+  "est_dur_s": 16.652
  },
  {
   "beat": 9,
@@ -105,7 +121,9 @@
   "end": 156.744,
   "dur": 18.316,
   "type": "footage",
-  "visual_subject": "Cleo Pontone interview + game action (12x quote overlay)"
+  "visual_subject": "Cleo Pontone interview + game action (12x quote overlay)",
+  "start_s": 138.428,
+  "est_dur_s": 18.316
  },
  {
   "beat": 10,
@@ -117,7 +135,9 @@
   "end": 167.568,
   "dur": 10.824,
   "type": "footage",
-  "visual_subject": "Coach making the sideline call, no instruments"
+  "visual_subject": "Coach making the sideline call, no instruments",
+  "start_s": 156.744,
+  "est_dur_s": 10.824
  },
  {
   "beat": 11,
@@ -129,7 +149,9 @@
   "end": 182.025,
   "dur": 14.457,
   "type": "footage",
-  "visual_subject": "The old check: trainer asks questions on the bench"
+  "visual_subject": "The old check: trainer asks questions on the bench",
+  "start_s": 167.568,
+  "est_dur_s": 14.457
  },
  {
   "beat": 12,
@@ -141,7 +163,9 @@
   "end": 196.934,
   "dur": 14.909,
   "type": "footage",
-  "visual_subject": "Athlete talking it down on the bench"
+  "visual_subject": "Athlete talking it down on the bench",
+  "start_s": 182.025,
+  "est_dur_s": 14.909
  },
  {
   "beat": 13,
@@ -153,7 +177,9 @@
   "end": 216.36,
   "dur": 19.426,
   "type": "graphics",
-  "visual_subject": "The system rests on the player's honesty"
+  "visual_subject": "The system rests on the player's honesty",
+  "start_s": 196.934,
+  "est_dur_s": 19.426
  },
  {
   "beat": 14,
@@ -165,7 +191,9 @@
   "end": 232.791,
   "dur": 16.431,
   "type": "footage",
-  "visual_subject": "Eyes as the unfakeable signal: saccade dashboard close-ups"
+  "visual_subject": "Eyes as the unfakeable signal: saccade dashboard close-ups",
+  "start_s": 216.36,
+  "est_dur_s": 16.431
  },
  {
   "beat": 15,
@@ -177,7 +205,9 @@
   "end": 252.039,
   "dur": 19.248,
   "type": "footage",
-  "visual_subject": "Clinic-grade eye tracking on laptops (the $50,000 world)"
+  "visual_subject": "Clinic-grade eye tracking on laptops (the $50,000 world)",
+  "start_s": 232.791,
+  "est_dur_s": 19.248
  },
  {
   "beat": 16,
@@ -189,7 +219,9 @@
   "end": 266.592,
   "dur": 14.553,
   "type": "graphics",
-  "visual_subject": "The rule everyone believed"
+  "visual_subject": "The rule everyone believed",
+  "start_s": 252.039,
+  "est_dur_s": 14.553
  },
  {
   "beat": 17,
@@ -201,7 +233,9 @@
   "end": 282.816,
   "dur": 16.224,
   "type": "footage",
-  "visual_subject": "Meet the inventors: Radhika Saran interview + students with prototype"
+  "visual_subject": "Meet the inventors: Radhika Saran interview + students with prototype",
+  "start_s": 266.592,
+  "est_dur_s": 16.224
  },
  {
   "beat": 18,
@@ -213,7 +247,9 @@
   "end": 297.649,
   "dur": 14.833,
   "type": "footage",
-  "visual_subject": "Harvard campus + the three inventors together"
+  "visual_subject": "Harvard campus + the three inventors together",
+  "start_s": 282.816,
+  "est_dur_s": 14.833
  },
  {
   "beat": 19,
@@ -225,7 +261,9 @@
   "end": 315.264,
   "dur": 17.615,
   "type": "footage",
-  "visual_subject": "Prototype parts in hand; winner card close-up"
+  "visual_subject": "Prototype parts in hand; winner card close-up",
+  "start_s": 297.649,
+  "est_dur_s": 17.615
  },
  {
   "beat": 20,
@@ -237,7 +275,9 @@
   "end": 329.831,
   "dur": 14.567,
   "type": "footage",
-  "visual_subject": "Sideline reality: bench, kit bag, device on table"
+  "visual_subject": "Sideline reality: bench, kit bag, device on table",
+  "start_s": 315.264,
+  "est_dur_s": 14.567
  },
  {
   "beat": 21,
@@ -249,7 +289,9 @@
   "end": 344.84,
   "dur": 15.009,
   "type": "footage",
-  "visual_subject": "Fitting the headset on the field"
+  "visual_subject": "Fitting the headset on the field",
+  "start_s": 329.831,
+  "est_dur_s": 15.009
  },
  {
   "beat": 22,
@@ -261,7 +303,9 @@
   "end": 364.704,
   "dur": 19.864,
   "type": "footage",
-  "visual_subject": "School and community fields"
+  "visual_subject": "School and community fields",
+  "start_s": 344.84,
+  "est_dur_s": 19.864
  },
  {
   "beat": 23,
@@ -273,7 +317,9 @@
   "end": 377.939,
   "dur": 13.235,
   "type": "footage",
-  "visual_subject": "Player puts the headset on"
+  "visual_subject": "Player puts the headset on",
+  "start_s": 364.704,
+  "est_dur_s": 13.235
  },
  {
   "beat": 24,
@@ -285,7 +331,9 @@
   "end": 396.321,
   "dur": 18.382,
   "type": "diagram",
-  "visual_subject": "DIAGRAM: eyes -> 45-degree mirrors -> IR cameras -> tablet target"
+  "visual_subject": "DIAGRAM: eyes -> 45-degree mirrors -> IR cameras -> tablet target",
+  "start_s": 377.939,
+  "est_dur_s": 18.382
  },
  {
   "beat": 25,
@@ -297,7 +345,9 @@
   "end": 414.336,
   "dur": 18.015,
   "type": "footage",
-  "visual_subject": "Eyes follow/fixate/move: dashboard measurement"
+  "visual_subject": "Eyes follow/fixate/move: dashboard measurement",
+  "start_s": 396.321,
+  "est_dur_s": 18.015
  },
  {
   "beat": 26,
@@ -309,7 +359,9 @@
   "end": 436.866,
   "dur": 22.53,
   "type": "footage",
-  "visual_subject": "Coach-facing display and laptop on the field"
+  "visual_subject": "Coach-facing display and laptop on the field",
+  "start_s": 414.336,
+  "est_dur_s": 22.53
  },
  {
   "beat": 27,
@@ -321,7 +373,9 @@
   "end": 451.886,
   "dur": 15.02,
   "type": "footage",
-  "visual_subject": "Report for the medical professional: laptop session"
+  "visual_subject": "Report for the medical professional: laptop session",
+  "start_s": 436.866,
+  "est_dur_s": 15.02
  },
  {
   "beat": 28,
@@ -333,7 +387,9 @@
   "end": 456.768,
   "dur": 4.882,
   "type": "graphics",
-  "visual_subject": "The chain: eyes, measurement, report"
+  "visual_subject": "The chain: eyes, measurement, report",
+  "start_s": 451.886,
+  "est_dur_s": 4.882
  },
  {
   "beat": 29,
@@ -345,7 +401,9 @@
   "end": 470.967,
   "dur": 14.199,
   "type": "graphics",
-  "visual_subject": "HERO 1: the $50,000 clinic system"
+  "visual_subject": "HERO 1: the $50,000 clinic system",
+  "start_s": 456.768,
+  "est_dur_s": 14.199
  },
  {
   "beat": 30,
@@ -357,7 +415,9 @@
   "end": 493.77,
   "dur": 22.803,
   "type": "graphics",
-  "visual_subject": "HERO 2: under $350 \u2014 about 140x cheaper"
+  "visual_subject": "HERO 2: under $350 \u2014 about 140x cheaper",
+  "start_s": 470.967,
+  "est_dur_s": 22.803
  },
  {
   "beat": 31,
@@ -369,7 +429,9 @@
   "end": 510.12,
   "dur": 16.35,
   "type": "graphics",
-  "visual_subject": "Price is the invention"
+  "visual_subject": "Price is the invention",
+  "start_s": 493.77,
+  "est_dur_s": 16.35
  },
  {
   "beat": 32,
@@ -381,7 +443,9 @@
   "end": 533.981,
   "dur": 23.861,
   "type": "footage",
-  "visual_subject": "4 Nov 2026: Dyson announces the Global Medical Winner"
+  "visual_subject": "4 Nov 2026: Dyson announces the Global Medical Winner",
+  "start_s": 510.12,
+  "est_dur_s": 23.861
  },
  {
   "beat": 33,
@@ -393,7 +457,9 @@
   "end": 556.224,
   "dur": 22.243,
   "type": "footage",
-  "visual_subject": "The win call: inventors react; both winners at the table"
+  "visual_subject": "The win call: inventors react; both winners at the table",
+  "start_s": 533.981,
+  "est_dur_s": 22.243
  },
  {
   "beat": 34,
@@ -405,7 +471,9 @@
   "end": 564.312,
   "dur": 8.088,
   "type": "footage",
-  "visual_subject": "Winner card close-up"
+  "visual_subject": "Winner card close-up",
+  "start_s": 556.224,
+  "est_dur_s": 8.088
  },
  {
   "beat": 35,
@@ -417,7 +485,9 @@
   "end": 579.241,
   "dur": 14.929,
   "type": "footage",
-  "visual_subject": "Demonstrating the headset (inventors demo the device)"
+  "visual_subject": "Demonstrating the headset (inventors demo the device)",
+  "start_s": 564.312,
+  "est_dur_s": 14.929
  },
  {
   "beat": 36,
@@ -429,7 +499,9 @@
   "end": 596.729,
   "dur": 17.488,
   "type": "footage",
-  "visual_subject": "Media coverage: news studio screens"
+  "visual_subject": "Media coverage: news studio screens",
+  "start_s": 579.241,
+  "est_dur_s": 17.488
  },
  {
   "beat": 37,
@@ -441,7 +513,9 @@
   "end": 607.392,
   "dur": 10.663,
   "type": "graphics",
-  "visual_subject": "Third winner in the series"
+  "visual_subject": "Third winner in the series",
+  "start_s": 596.729,
+  "est_dur_s": 10.663
  },
  {
   "beat": 38,
@@ -453,7 +527,9 @@
   "end": 636.808,
   "dur": 29.416,
   "type": "footage",
-  "visual_subject": "HONEST: headset worn \u2014 screening, not diagnosis"
+  "visual_subject": "HONEST: headset worn \u2014 screening, not diagnosis",
+  "start_s": 607.392,
+  "est_dur_s": 29.416
  },
  {
   "beat": 39,
@@ -465,7 +541,9 @@
   "end": 649.98,
   "dur": 13.172,
   "type": "footage",
-  "visual_subject": "Still a prototype: device on the lab table"
+  "visual_subject": "Still a prototype: device on the lab table",
+  "start_s": 636.808,
+  "est_dur_s": 13.172
  },
  {
   "beat": 40,
@@ -477,7 +555,9 @@
   "end": 666.664,
   "dur": 16.684,
   "type": "footage",
-  "visual_subject": "The 2-3 minute test on the dashboard"
+  "visual_subject": "The 2-3 minute test on the dashboard",
+  "start_s": 649.98,
+  "est_dur_s": 16.684
  },
  {
   "beat": 41,
@@ -489,7 +569,9 @@
   "end": 677.64,
   "dur": 10.976,
   "type": "graphics",
-  "visual_subject": "A prototype with a global prize \u2014 not yet a standard"
+  "visual_subject": "A prototype with a global prize \u2014 not yet a standard",
+  "start_s": 666.664,
+  "est_dur_s": 10.976
  },
  {
   "beat": 42,
@@ -501,7 +583,9 @@
   "end": 692.738,
   "dur": 15.098,
   "type": "footage",
-  "visual_subject": "What changes: objective check on the field"
+  "visual_subject": "What changes: objective check on the field",
+  "start_s": 677.64,
+  "est_dur_s": 15.098
  },
  {
   "beat": 43,
@@ -513,7 +597,9 @@
   "end": 706.997,
   "dur": 14.259,
   "type": "footage",
-  "visual_subject": "Report follows the player: laptop + dashboard"
+  "visual_subject": "Report follows the player: laptop + dashboard",
+  "start_s": 692.738,
+  "est_dur_s": 14.259
  },
  {
   "beat": 44,
@@ -525,7 +611,9 @@
   "end": 720.836,
   "dur": 13.84,
   "type": "footage",
-  "visual_subject": "Beyond sport: the eye test anywhere"
+  "visual_subject": "Beyond sport: the eye test anywhere",
+  "start_s": 706.997,
+  "est_dur_s": 13.84
  },
  {
   "beat": 45,
@@ -537,7 +625,9 @@
   "end": 726.288,
   "dur": 5.452,
   "type": "graphics",
-  "visual_subject": "The guesswork has competition"
+  "visual_subject": "The guesswork has competition",
+  "start_s": 720.836,
+  "est_dur_s": 5.452
  },
  {
   "beat": 46,
@@ -549,7 +639,9 @@
   "end": 750.662,
   "dur": 24.374,
   "type": "footage",
-  "visual_subject": "What's next: prototype work \u2014 sketches and boards"
+  "visual_subject": "What's next: prototype work \u2014 sketches and boards",
+  "start_s": 726.288,
+  "est_dur_s": 24.374
  },
  {
   "beat": 47,
@@ -561,7 +653,9 @@
   "end": 766.766,
   "dur": 16.104,
   "type": "footage",
-  "visual_subject": "School pilots ambition: youth fields"
+  "visual_subject": "School pilots ambition: youth fields",
+  "start_s": 750.662,
+  "est_dur_s": 16.104
  },
  {
   "beat": 48,
@@ -573,7 +667,9 @@
   "end": 774.6,
   "dur": 7.834,
   "type": "graphics",
-  "visual_subject": "The sequel to watch: validation results"
+  "visual_subject": "The sequel to watch: validation results",
+  "start_s": 766.766,
+  "est_dur_s": 7.834
  },
  {
   "beat": 49,
@@ -585,7 +681,9 @@
   "end": 802.713,
   "dur": 28.113,
   "type": "footage",
-  "visual_subject": "Callback: the seconds after the hit"
+  "visual_subject": "Callback: the seconds after the hit",
+  "start_s": 774.6,
+  "est_dur_s": 28.113
  },
  {
   "beat": 50,
@@ -597,7 +695,9 @@
   "end": 821.589,
   "dur": 18.876,
   "type": "footage",
-  "visual_subject": "Closing: winner card + athlete wearing the headset"
+  "visual_subject": "Closing: winner card + athlete wearing the headset",
+  "start_s": 802.713,
+  "est_dur_s": 18.876
  },
  {
   "beat": 51,
@@ -609,6 +709,8 @@
   "end": 824.4,
   "dur": 2.811,
   "type": "graphics",
-  "visual_subject": "Comment question card"
+  "visual_subject": "Comment question card",
+  "start_s": 821.589,
+  "est_dur_s": 2.811
  }
 ]
