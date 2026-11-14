@@ -3,259 +3,1610 @@
   "beat": 1,
   "type": "footage",
   "timeline_in": 0.0,
-  "timeline_out": 20.94,
-  "credit": "The Highlight Factory"
+  "duration": 20.94,
+  "segments": [
+   {
+    "in": 18,
+    "out": 21.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 21.4,
+    "out": 24.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 24.8,
+    "out": 28.0,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 14.6,
+    "out": 17.8,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 64,
+    "out": 67.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 67.4,
+    "out": 69.87,
+    "dur": 2.47,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 70.8,
+    "out": 73.27,
+    "dur": 2.47,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 2,
   "type": "footage",
   "timeline_in": 20.94,
-  "timeline_out": 35.31,
-  "credit": "The Sports Institute at UW Medicine"
+  "duration": 14.37,
+  "segments": [
+   {
+    "in": 300,
+    "out": 303.2,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 15,
+    "out": 18.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 303.4,
+    "out": 306.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 18.4,
+    "out": 20.78,
+    "dur": 2.38,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 306.8,
+    "out": 309.18,
+    "dur": 2.38,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   }
+  ]
  },
  {
   "beat": 3,
   "type": "footage",
   "timeline_in": 35.31,
-  "timeline_out": 49.68,
-  "credit": "James Dyson Foundation"
+  "duration": 14.37,
+  "segments": [
+   {
+    "in": 56,
+    "out": 59.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 86,
+    "out": 89.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 59.4,
+    "out": 62.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 89.4,
+    "out": 91.78,
+    "dur": 2.38,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 62.8,
+    "out": 65.18,
+    "dur": 2.38,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 4,
   "type": "footage",
   "timeline_in": 49.68,
-  "timeline_out": 76.368,
-  "credit": "James Dyson Foundation"
+  "duration": 26.688,
+  "segments": [
+   {
+    "in": 35,
+    "out": 38.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 72,
+    "out": 75.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 38.4,
+    "out": 41.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 75.4,
+    "out": 78.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 41.8,
+    "out": 45.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 78.8,
+    "out": 82.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 31.6,
+    "out": 34.8,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 68.6,
+    "out": 70.74,
+    "dur": 2.14,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 75,
+    "out": 77.14,
+    "dur": 2.14,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 6,
   "type": "footage",
   "timeline_in": 91.654,
-  "timeline_out": 112.784,
-  "credit": "Boston 25 News"
+  "duration": 21.13,
+  "segments": [
+   {
+    "in": 60,
+    "out": 63.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 150,
+    "out": 153.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 63.4,
+    "out": 66.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 153.4,
+    "out": 156.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 56.6,
+    "out": 59.8,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 156.8,
+    "out": 160.0,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 146.6,
+    "out": 148.53,
+    "dur": 1.93,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 8,
   "type": "footage",
   "timeline_in": 121.776,
-  "timeline_out": 138.428,
-  "credit": "The Highlight Factory"
+  "duration": 16.652,
+  "segments": [
+   {
+    "in": 30,
+    "out": 33.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 33.4,
+    "out": 36.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 36.8,
+    "out": 40.0,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 26.6,
+    "out": 29.8,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 88,
+    "out": 89.93,
+    "dur": 1.93,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 91.4,
+    "out": 93.33,
+    "dur": 1.93,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 9,
   "type": "footage",
   "timeline_in": 138.428,
-  "timeline_out": 156.744,
-  "credit": "Boston 25 News"
+  "duration": 18.316,
+  "segments": [
+   {
+    "in": 27,
+    "out": 30.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 100,
+    "out": 103.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 30.4,
+    "out": 33.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 103.4,
+    "out": 106.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 33.8,
+    "out": 37.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 106.8,
+    "out": 109.12,
+    "dur": 2.32,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 10,
   "type": "footage",
   "timeline_in": 156.744,
-  "timeline_out": 167.568,
-  "credit": "The Sports Institute at UW Medicine"
+  "duration": 10.824,
+  "segments": [
+   {
+    "in": 420,
+    "out": 423.2,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 423.4,
+    "out": 426.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 426.8,
+    "out": 429.01,
+    "dur": 2.21,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 416.6,
+    "out": 418.81,
+    "dur": 2.21,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   }
+  ]
  },
  {
   "beat": 11,
   "type": "footage",
   "timeline_in": 167.568,
-  "timeline_out": 182.025,
-  "credit": "The Sports Institute at UW Medicine"
+  "duration": 14.457,
+  "segments": [
+   {
+    "in": 160,
+    "out": 163.2,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 163.4,
+    "out": 166.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 166.8,
+    "out": 170.0,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 156.6,
+    "out": 159.03,
+    "dur": 2.43,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 545,
+    "out": 547.43,
+    "dur": 2.43,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   }
+  ]
  },
  {
   "beat": 12,
   "type": "footage",
   "timeline_in": 182.025,
-  "timeline_out": 196.934,
-  "credit": "The Sports Institute at UW Medicine"
+  "duration": 14.909,
+  "segments": [
+   {
+    "in": 790,
+    "out": 793.2,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 793.4,
+    "out": 796.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 796.8,
+    "out": 800.0,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 786.6,
+    "out": 789.8,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 800,
+    "out": 802.11,
+    "dur": 2.11,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   }
+  ]
  },
  {
   "beat": 14,
   "type": "footage",
   "timeline_in": 216.36,
-  "timeline_out": 232.791,
-  "credit": "James Dyson Foundation"
+  "duration": 16.431,
+  "segments": [
+   {
+    "in": 81,
+    "out": 84.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 101,
+    "out": 104.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 84.4,
+    "out": 87.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 104.4,
+    "out": 107.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 87.8,
+    "out": 89.62,
+    "dur": 1.82,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 107.8,
+    "out": 109.61,
+    "dur": 1.81,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 15,
   "type": "footage",
   "timeline_in": 232.791,
-  "timeline_out": 252.039,
-  "credit": "Boston 25 News"
+  "duration": 19.248,
+  "segments": [
+   {
+    "in": 110,
+    "out": 113.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 131,
+    "out": 134.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 113.4,
+    "out": 116.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 134.4,
+    "out": 137.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 116.8,
+    "out": 120.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 137.8,
+    "out": 141.05,
+    "dur": 3.25,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 17,
   "type": "footage",
   "timeline_in": 266.592,
-  "timeline_out": 282.816,
-  "credit": "Boston 25 News"
+  "duration": 16.224,
+  "segments": [
+   {
+    "in": 120.8,
+    "out": 124.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 42,
+    "out": 45.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 126.8,
+    "out": 130.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 45.4,
+    "out": 48.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 48.8,
+    "out": 52.22,
+    "dur": 3.42,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 18,
   "type": "footage",
   "timeline_in": 282.816,
-  "timeline_out": 297.649,
-  "credit": "Harvard College"
+  "duration": 14.833,
+  "segments": [
+   {
+    "in": 12,
+    "out": 15.2,
+    "dur": 3.2,
+    "credit_pill": "Harvard College"
+   },
+   {
+    "in": 44,
+    "out": 47.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 20,
+    "out": 23.2,
+    "dur": 3.2,
+    "credit_pill": "Harvard University"
+   },
+   {
+    "in": 15.4,
+    "out": 18.6,
+    "dur": 3.2,
+    "credit_pill": "Harvard College"
+   },
+   {
+    "in": 47.4,
+    "out": 49.43,
+    "dur": 2.03,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 19,
   "type": "footage",
   "timeline_in": 297.649,
-  "timeline_out": 315.264,
-  "credit": "James Dyson Foundation"
+  "duration": 17.615,
+  "segments": [
+   {
+    "in": 75,
+    "out": 78.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 143,
+    "out": 146.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 71.6,
+    "out": 74.8,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 146.4,
+    "out": 149.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 78.4,
+    "out": 80.81,
+    "dur": 2.41,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 149.8,
+    "out": 152.21,
+    "dur": 2.41,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 20,
   "type": "footage",
   "timeline_in": 315.264,
-  "timeline_out": 329.831,
-  "credit": "The Sports Institute at UW Medicine"
+  "duration": 14.567,
+  "segments": [
+   {
+    "in": 845,
+    "out": 848.2,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 172,
+    "out": 175.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 848.4,
+    "out": 851.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 175.4,
+    "out": 177.88,
+    "dur": 2.48,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 851.8,
+    "out": 854.28,
+    "dur": 2.48,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   }
+  ]
  },
  {
   "beat": 21,
   "type": "footage",
   "timeline_in": 329.831,
-  "timeline_out": 344.84,
-  "credit": "Boston 25 News"
+  "duration": 15.009,
+  "segments": [
+   {
+    "in": 132.8,
+    "out": 136.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 63.8,
+    "out": 67.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 138.8,
+    "out": 142.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 53.6,
+    "out": 56.8,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 57,
+    "out": 59.21,
+    "dur": 2.21,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 22,
   "type": "footage",
   "timeline_in": 344.84,
-  "timeline_out": 364.704,
-  "credit": "Boston 25 News"
+  "duration": 19.864,
+  "segments": [
+   {
+    "in": 64.4,
+    "out": 67.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 160,
+    "out": 163.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 67.8,
+    "out": 71.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 163.4,
+    "out": 166.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 71.8,
+    "out": 75.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 166.8,
+    "out": 168.73,
+    "dur": 1.93,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 61,
+    "out": 62.93,
+    "dur": 1.93,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 23,
   "type": "footage",
   "timeline_in": 364.704,
-  "timeline_out": 377.939,
-  "credit": "James Dyson Foundation"
+  "duration": 13.235,
+  "segments": [
+   {
+    "in": 59.4,
+    "out": 62.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 86,
+    "out": 89.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 89.4,
+    "out": 92.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 92.8,
+    "out": 94.62,
+    "dur": 1.82,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 82.6,
+    "out": 84.42,
+    "dur": 1.82,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 25,
   "type": "footage",
   "timeline_in": 396.321,
-  "timeline_out": 414.336,
-  "credit": "James Dyson Foundation"
+  "duration": 18.015,
+  "segments": [
+   {
+    "in": 88.8,
+    "out": 92.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 98.6,
+    "out": 101.8,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 138.8,
+    "out": 142.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 92.8,
+    "out": 96.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 128.6,
+    "out": 131.8,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 132,
+    "out": 134.02,
+    "dur": 2.02,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 26,
   "type": "footage",
   "timeline_in": 414.336,
-  "timeline_out": 436.866,
-  "credit": "Boston 25 News"
+  "duration": 22.53,
+  "segments": [
+   {
+    "in": 110,
+    "out": 113.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 95,
+    "out": 98.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 98.4,
+    "out": 101.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 113.4,
+    "out": 116.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 101.8,
+    "out": 105.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 91.6,
+    "out": 94.8,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 116.8,
+    "out": 120.13,
+    "dur": 3.33,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 27,
   "type": "footage",
   "timeline_in": 436.866,
-  "timeline_out": 451.886,
-  "credit": "Boston 25 News"
+  "duration": 15.02,
+  "segments": [
+   {
+    "in": 158,
+    "out": 161.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 107.8,
+    "out": 111.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 161.4,
+    "out": 164.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 111,
+    "out": 114.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 164.8,
+    "out": 167.02,
+    "dur": 2.22,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 32,
   "type": "footage",
   "timeline_in": 510.12,
-  "timeline_out": 533.981,
-  "credit": "James Dyson Foundation"
+  "duration": 23.861,
+  "segments": [
+   {
+    "in": 35,
+    "out": 38.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 30,
+    "out": 33.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 38.4,
+    "out": 41.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 33.4,
+    "out": 36.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 31.6,
+    "out": 34.8,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 36.8,
+    "out": 40.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 50.4,
+    "out": 52.73,
+    "dur": 2.33,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 26.6,
+    "out": 28.93,
+    "dur": 2.33,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 33,
   "type": "footage",
   "timeline_in": 533.981,
-  "timeline_out": 556.224,
-  "credit": "James Dyson Foundation"
+  "duration": 22.243,
+  "segments": [
+   {
+    "in": 42.8,
+    "out": 46.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 146,
+    "out": 149.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 46.8,
+    "out": 50.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 149.4,
+    "out": 152.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 52.8,
+    "out": 56.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 152.8,
+    "out": 156.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 142.6,
+    "out": 145.64,
+    "dur": 3.04,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 34,
   "type": "footage",
   "timeline_in": 556.224,
-  "timeline_out": 564.312,
-  "credit": "James Dyson Foundation"
+  "duration": 8.088,
+  "segments": [
+   {
+    "in": 96,
+    "out": 99.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 99.4,
+    "out": 101.84,
+    "dur": 2.44,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 102.8,
+    "out": 105.24,
+    "dur": 2.44,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 35,
   "type": "footage",
   "timeline_in": 564.312,
-  "timeline_out": 579.241,
-  "credit": "TNN Tech Reports"
+  "duration": 14.929,
+  "segments": [
+   {
+    "in": 59,
+    "out": 62.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 95.4,
+    "out": 98.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 62.4,
+    "out": 65.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 65.8,
+    "out": 69.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 55.6,
+    "out": 57.73,
+    "dur": 2.13,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 36,
   "type": "footage",
   "timeline_in": 579.241,
-  "timeline_out": 596.729,
-  "credit": "Boston 25 News"
+  "duration": 17.488,
+  "segments": [
+   {
+    "in": 2,
+    "out": 5.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 2,
+    "out": 5.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 5.4,
+    "out": 8.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 5.4,
+    "out": 8.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 8.8,
+    "out": 11.14,
+    "dur": 2.34,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 8.8,
+    "out": 11.14,
+    "dur": 2.34,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 38,
   "type": "footage",
   "timeline_in": 607.392,
-  "timeline_out": 636.808,
-  "credit": "Boston 25 News"
+  "duration": 29.416,
+  "segments": [
+   {
+    "in": 82.6,
+    "out": 85.8,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 92.4,
+    "out": 95.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 155,
+    "out": 158.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 158,
+    "out": 161.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 158.4,
+    "out": 161.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 161.8,
+    "out": 165.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 161.4,
+    "out": 164.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 151.6,
+    "out": 154.8,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 167.8,
+    "out": 169.71,
+    "dur": 1.91,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 92.8,
+    "out": 94.71,
+    "dur": 1.91,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 39,
   "type": "footage",
   "timeline_in": 636.808,
-  "timeline_out": 649.98,
-  "credit": "Boston 25 News"
+  "duration": 13.172,
+  "segments": [
+   {
+    "in": 171,
+    "out": 174.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 177.8,
+    "out": 181.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 167.6,
+    "out": 170.8,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 181.2,
+    "out": 184.77,
+    "dur": 3.57,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  },
  {
   "beat": 40,
   "type": "footage",
   "timeline_in": 649.98,
-  "timeline_out": 666.664,
-  "credit": "James Dyson Foundation"
+  "duration": 16.684,
+  "segments": [
+   {
+    "in": 95,
+    "out": 98.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 59,
+    "out": 62.2,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 62.4,
+    "out": 65.6,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 65.8,
+    "out": 69.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 165.8,
+    "out": 167.74,
+    "dur": 1.94,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 89.8,
+    "out": 91.74,
+    "dur": 1.94,
+    "credit_pill": "James Dyson Foundation"
+   }
+  ]
  },
  {
   "beat": 42,
   "type": "footage",
   "timeline_in": 677.64,
-  "timeline_out": 692.738,
-  "credit": "Boston 25 News"
+  "duration": 15.098,
+  "segments": [
+   {
+    "in": 128,
+    "out": 131.2,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 71.8,
+    "out": 75.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 131.4,
+    "out": 134.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 134.8,
+    "out": 138.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 111,
+    "out": 113.3,
+    "dur": 2.3,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 43,
   "type": "footage",
   "timeline_in": 692.738,
-  "timeline_out": 706.997,
-  "credit": "Boston 25 News"
+  "duration": 14.259,
+  "segments": [
+   {
+    "in": 142.8,
+    "out": 146.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 104.2,
+    "out": 107.4,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 122.2,
+    "out": 125.4,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 126.2,
+    "out": 128.53,
+    "dur": 2.33,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 146.2,
+    "out": 148.53,
+    "dur": 2.33,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 44,
   "type": "footage",
   "timeline_in": 706.997,
-  "timeline_out": 720.836,
-  "credit": "James Dyson Foundation"
+  "duration": 13.84,
+  "segments": [
+   {
+    "in": 81,
+    "out": 84.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 169.8,
+    "out": 173.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 84.4,
+    "out": 87.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 150.2,
+    "out": 152.32,
+    "dur": 2.12,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 163.4,
+    "out": 165.52,
+    "dur": 2.12,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 46,
   "type": "footage",
   "timeline_in": 726.288,
-  "timeline_out": 750.662,
-  "credit": "Boston 25 News"
+  "duration": 24.374,
+  "segments": [
+   {
+    "in": 50.4,
+    "out": 53.6,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 77.8,
+    "out": 81.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 53.8,
+    "out": 57.0,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 83.8,
+    "out": 87.0,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 43.6,
+    "out": 46.8,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 88.6,
+    "out": 91.8,
+    "dur": 3.2,
+    "credit_pill": "TNN Tech Reports"
+   },
+   {
+    "in": 40.2,
+    "out": 43.4,
+    "dur": 3.2,
+    "credit_pill": "Boston 25 News"
+   },
+   {
+    "in": 92,
+    "out": 93.97,
+    "dur": 1.97,
+    "credit_pill": "TNN Tech Reports"
+   }
+  ]
  },
  {
   "beat": 47,
   "type": "footage",
   "timeline_in": 750.662,
-  "timeline_out": 766.766,
-  "credit": "Boston 25 News"
+  "duration": 16.104,
+  "segments": [
+   {
+    "in": 170,
+    "out": 173.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 173.4,
+    "out": 176.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 176.8,
+    "out": 180.0,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 166.6,
+    "out": 169.8,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 225,
+    "out": 228.3,
+    "dur": 3.3,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 49,
   "type": "footage",
   "timeline_in": 774.6,
-  "timeline_out": 802.713,
-  "credit": "The Highlight Factory"
+  "duration": 28.113,
+  "segments": [
+   {
+    "in": 70,
+    "out": 73.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 308.4,
+    "out": 311.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 73.4,
+    "out": 76.6,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 311.8,
+    "out": 315.0,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 76.8,
+    "out": 80.0,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 428.4,
+    "out": 431.6,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 125,
+    "out": 128.2,
+    "dur": 3.2,
+    "credit_pill": "The Highlight Factory"
+   },
+   {
+    "in": 431.8,
+    "out": 435.0,
+    "dur": 3.2,
+    "credit_pill": "The Sports Institute at UW Medicine"
+   },
+   {
+    "in": 22,
+    "out": 24.51,
+    "dur": 2.51,
+    "credit_pill": "The Highlight Factory"
+   }
+  ]
  },
  {
   "beat": 50,
   "type": "footage",
   "timeline_in": 802.713,
-  "timeline_out": 821.589,
-  "credit": "James Dyson Foundation"
+  "duration": 18.876,
+  "segments": [
+   {
+    "in": 96,
+    "out": 99.2,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 99.4,
+    "out": 102.6,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 102.8,
+    "out": 106.0,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 68.2,
+    "out": 71.4,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 106.2,
+    "out": 109.4,
+    "dur": 3.2,
+    "credit_pill": "James Dyson Foundation"
+   },
+   {
+    "in": 140,
+    "out": 142.88,
+    "dur": 2.88,
+    "credit_pill": "Boston 25 News"
+   }
+  ]
  }
 ]
